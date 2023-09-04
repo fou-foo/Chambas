@@ -1,0 +1,982 @@
+location,vendor,lat,lon,bathrooms,parking_lots,num_bedrooms,m2,final_price,price_square_meter,ZIP,Calle,Ciudad
+"Sinaloa 20 , Roma Sur, Roma Sur, Cuauhtémoc, Distrito Federal",Investemx,19.4213173,-99.1641821,2.0,2,2.0,127.0,9000000.0,70866.14173228346,06700,insurgentes y Monterrey,Ciudad de México
+"Tonala, Roma Norte, Cuauhtémoc, Distrito Federal",Avitana,19.4210293,-99.1635414,1.0,1,1.0,54.0,4264000.0,78962.96296296296,06700,Tonalá,Ciudad de México
+"Tepeji 43, Roma Sur, Ciudad De México, Cdmx, México, Roma Sur, Cuauhtémoc, Distrito Federal",Ebranuncios,19.4078138,-99.1618723,3.0,2,3.0,163.0,8093500.0,49653.37423312884,06760,Tepeji,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.404992,-99.1602428,2.0,1,2.0,93.0,4000000.0,43010.75268817204,06760,Linares,Ciudad de México
+"Frontera, Roma Norte, Cuauhtémoc, Distrito Federal",Contactobienesraicesgold,19.4196927,-99.1560364,2.0,1,2.0,103.0,6732700.0,65366.01941747573,06700,Frontera,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Lidialopeza ,19.4030201,-99.1687004,1.0,1,2.0,67.0,3200000.0,47761.19402985075,06760,Calle Chilpancingo,Ciudad de México
+"Sinaloa 20 , Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213173,-99.1641821,2.0,2,2.0,127.0,9000000.0,70866.14173228346,06700,insurgentes y Monterrey,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4111979,-99.1649286,2.0,1,2.0,112.0,5550000.0,49553.57142857143,06700,Coahuila,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4210727,-99.1557975,2.0,2,3.0,154.0,10592361.0,68781.56493506493,06700,Colima,Ciudad de México
+"Cuauhtemoc, Roma Norte, Cuauhtémoc, Distrito Federal",Balinter,19.4193053,-99.1538106,2.0,2,2.0,100.0,5300000.0,53000.0,06720,Ciudad de México,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,163.0,10200000.0,62576.68711656442,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,180.0,11050000.0,61388.88888888889,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,157.0,9880000.0,62929.93630573248,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,111.0,7010000.0,63153.15315315315,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,112.0,6790000.0,60625.0,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,149.0,9670000.0,64899.328859060406,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,2.0,2,3.0,114.0,7332973.0,64324.32456140351,06760,Calle Monclova,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Habitare Luxury Living,19.4090847,-99.1643185,2.0,1,2.0,145.0,9859115.0,67993.89655172414,06760,Aguascalientes,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,1.0,1,1.0,41.0,3382500.0,82500.0,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,1.0,1,1.0,54.0,4515000.0,83611.11111111111,06760,Calle Monclova,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4195256,-99.162549,1.0,1,1.0,56.0,4496000.0,80285.71428571429,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,1.0,1,1.0,63.0,5257500.0,83452.38095238095,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,1.0,1,1.0,49.0,4102500.0,83724.48979591837,06760,Calle Monclova,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4043698,-99.1636062,1.0,1,1.0,38.0,3195000.0,84078.94736842105,06760,Calle Monclova,Ciudad de México
+"Viaducto Miguel Alemán, Roma Sur, Cuauhtémoc, Distrito Federal",Jrasesores,19.4020904,-99.1626636,2.0,1,2.0,84.0,4061500.0,48351.19047619047,03103,Alaska,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4127205,-99.1547904,1.0,1,1.0,48.0,3306533.0,68886.10416666667,06700,Avenida Cuauhtémoc,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Inmobiliariahaz,19.4136591,-99.1653045,2.0,1,2.0,89.0,5399999.0,60674.14606741573,06700,Calle Querétaro,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Habitare Luxury Living,19.4090847,-99.1643185,1.0,1,2.0,67.0,4314445.0,64394.701492537315,06760,Aguascalientes,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Habitare Luxury Living,19.4090847,-99.1643185,2.0,1,2.0,74.0,4996100.0,67514.86486486487,06760,Aguascalientes,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4052747,-99.1690454,2.0,1,2.0,91.0,4850000.0,53296.703296703294,06760,Calle Chilpancingo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,1.0,1,1.0,45.0,3615970.0,80354.88888888889,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4184344,-99.1558187,1.0,1,1.0,60.0,3395000.0,56583.333333333336,06700,Frontera,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,81.0,5292000.0,65333.333333333336,06700,Calle de Durango,Ciudad de México
+"Av Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,1.0,37.0,2792170.0,75464.05405405405,06700,Tabasco,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,1.0,1,1.0,48.0,3034124.0,63210.916666666664,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,1,2.0,176.0,9500000.0,53977.27272727273,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,126.0,8700000.0,69047.61904761905,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4158401,-99.1596792,3.0,2,3.0,284.0,12900000.0,45422.535211267605,06700,Zacatecas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,2,2.0,85.0,3995000.0,47000.0,06700,Calle de Durango,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Jrasesores,19.4195256,-99.162549,3.0,1,3.0,152.0,8500000.0,55921.05263157895,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,1,3.0,193.0,6195000.0,32098.44559585492,06760,Quintana Roo,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4119026,-99.1596531,2.0,2,2.0,97.0,6042960.0,62298.55670103093,06700,Coahuila,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,111.0,5550000.0,50000.0,06760,Quintana Roo,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4301322,-99.1691413,2.0,1,2.0,104.0,5350000.0,51442.307692307695,06500,Eje Vial Eje 2 Poniente (Rio Tiber),Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,2,3.0,284.0,12900000.0,45422.535211267605,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,60.0,3595000.0,59916.666666666664,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4196927,-99.1560364,1.0,1,1.0,60.0,3395000.0,56583.333333333336,06700,Frontera,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,57.0,3780000.0,66315.78947368421,06700,Calle de Durango,Ciudad de México
+"Alejandría 111, Roma, Monterrey, Nuevo León",Century21 Urbana,25.656675,-100.2944792,1.0,1,1.0,40.0,2325668.0,58141.7,64700,Alejandría,Nuevo León
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,111.0,5550000.0,50000.0,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Inmobiliariahaz,19.4057258,-99.1637564,2.0,2,2.0,78.0,4500000.0,57692.307692307695,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,81.0,5393000.0,66580.24691358025,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,42.0,2595000.0,61785.71428571428,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,1.0,1,1.0,48.0,2862381.0,59632.9375,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,2,3.0,90.0,4495000.0,49944.444444444445,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,107.0,7040000.0,65794.39252336448,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,71.0,4455000.0,62746.47887323944,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,107.0,7040000.0,65794.39252336448,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4137406,-99.1610013,2.0,2,2.0,163.0,9935982.0,60956.94478527607,06700,Eje Vial 2A Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,1.0,1,1.0,44.0,3615979.0,82181.34090909091,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,1.0,1,1.0,44.0,3615970.0,82181.13636363637,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Jrasesores,19.405299,-99.1649891,2.0,1,2.0,78.0,4186666.0,53675.205128205125,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4161012,-99.1653105,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Roma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4160872,-99.1653105,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06170,Avenida Insurgentes Sur,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,1.0,67.0,4250000.0,63432.835820895525,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,60.0,3595000.0,59916.666666666664,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,60.0,3395000.0,56583.333333333336,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,110.0,7962400.0,72385.45454545454,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4158401,-99.1596792,2.0,2,3.0,90.0,4495000.0,49944.444444444445,06700,Zacatecas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,57.0,3950000.0,69298.24561403508,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4229547,-99.1652534,2.0,1,2.0,61.0,4430000.0,72622.95081967213,06700,Roma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4229547,-99.1652534,2.0,1,2.0,86.0,4913500.0,57133.72093023256,06700,Roma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,1,2.0,122.0,8400000.0,68852.45901639345,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,1,2.0,122.0,8400000.0,68852.45901639345,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,61.0,4430000.0,72622.95081967213,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,71.0,4455000.0,62746.47887323944,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4195256,-99.162549,1.0,1,1.0,39.0,3217500.0,82500.0,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4195256,-99.162549,1.0,1,1.0,38.0,3155000.0,83026.31578947368,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,2,3.0,111.0,6426000.0,57891.89189189189,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,91.0,5145000.0,56538.46153846154,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,57.0,3750000.0,65789.47368421052,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,1.0,67.0,4278000.0,63850.74626865672,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,71.0,4390000.0,61830.98591549296,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,1.0,74.0,4780000.0,64594.59459459459,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,120.0,7550000.0,62916.666666666664,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,37.0,3848548.0,104014.8108108108,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4181605,-99.1584569,2.0,1,2.0,78.0,4826900.0,61883.333333333336,06700,Córdoba,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4181605,-99.1584569,2.0,1,2.0,78.0,4826900.0,61883.333333333336,06700,Córdoba,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,74.0,4229827.0,57159.82432432433,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,2.0,78.0,4483800.0,57484.61538461538,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,1.0,1,1.0,45.0,3615970.0,80354.88888888889,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,1.0,67.0,4250000.0,63432.835820895525,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,1.0,69.0,4335000.0,62826.086956521736,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,57.0,3725000.0,65350.87719298246,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,65.0,4330000.0,66615.38461538461,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,91.0,5145000.0,56538.46153846154,06760,Quintana Roo,Ciudad de México
+"Narvarte, Benito Juárez, Distrito Federal",Rent A House Cdmx,19.3941411,-99.1425459,2.0,2,3.0,122.0,5795000.0,47500.0,03400,Andalucía,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,2,2.0,173.0,9151840.0,52900.80924855491,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,43.0,3370000.0,78372.09302325582,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Ciudad De México, Cdmx, México, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,2.0,1,1.0,63.0,4454120.0,70700.31746031746,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4158401,-99.1596792,3.0,1,3.0,284.0,14700000.0,51760.56338028169,06700,Zacatecas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,1,2.0,145.0,6084392.0,41961.324137931035,06030,Paseo de La Reforma Norte,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rematadascom,19.4021495,-99.170374,2.0,1,3.0,111.0,2942543.0,26509.3963963964,06100,Calle Bajío,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,2.0,1,2.0,132.0,6853000.0,51916.666666666664,06700,Coahuila,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,1,2.0,145.0,6084392.0,41961.324137931035,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,78.0,4100000.0,52564.10256410256,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4158401,-99.1596792,3.0,2,3.0,284.0,14700000.0,51760.56338028169,06700,Zacatecas,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rematadascom,19.407944,-99.1675301,2.0,1,3.0,96.0,2327000.0,24239.583333333332,06760,Avenida Insurgentes Sur,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,1.0,1,2.0,59.0,4290000.0,72711.86440677966,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,2.0,1,2.0,64.0,4312000.0,67375.0,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,1.0,1,1.0,41.0,3269750.0,79750.0,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,1.0,1,1.0,43.0,3429250.0,79750.0,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,2.0,1,2.0,126.0,6600000.0,52380.95238095238,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,2.0,1,2.0,63.0,4202000.0,66698.41269841269,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,1.0,1,2.0,76.0,4631000.0,60934.21052631579,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,1.0,1,1.0,51.0,3840000.0,75294.11764705883,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4124955,-99.1577268,2.0,1,2.0,62.0,4279000.0,69016.12903225806,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Jrasesores,19.4195256,-99.162549,3.0,2,3.0,157.0,9401000.0,59878.980891719744,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,78.0,4100000.0,52564.10256410256,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,57.0,3640000.0,63859.649122807015,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,43.0,3370000.0,78372.09302325582,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,2,2.0,74.0,4229827.0,57159.82432432433,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4126449,-99.1612825,2.0,2,2.0,82.0,5006474.0,61054.560975609755,06700,Tonalá,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,43.0,3370000.0,78372.09302325582,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Promoluxury,19.405299,-99.1649891,2.0,1,2.0,141.0,9859115.0,69922.80141843972,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4076742,-99.1600444,2.0,2,2.0,74.0,4229827.0,57159.82432432433,06760,Tonalá,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Jrasesores,19.405299,-99.1649891,2.0,1,2.0,67.0,4100000.0,61194.02985074627,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,91.0,5145000.0,56538.46153846154,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4218675,-99.1636483,1.0,1,1.0,39.0,2980000.0,76410.2564102564,06700,Avenida Insurgentes Sur,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4247667,-99.157579,2.0,1,2.0,91.0,5950000.0,65384.61538461538,06700,Eje Vial 1 Sur,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,1,2.0,167.0,8250000.0,49401.19760479042,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,2,3.0,162.0,10249470.0,63268.333333333336,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4063936,-99.1638207,2.0,2,2.0,140.0,6990000.0,49928.57142857143,06760,Eje 3 Sur Sin Número,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Promoluxury,19.405299,-99.1649891,2.0,1,2.0,70.0,4997000.0,71385.71428571429,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4130477,-99.1615075,2.0,2,2.0,144.0,8584000.0,59611.11111111111,06700,Tonalá,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Incitybienesraices,19.4063936,-99.1638207,2.0,2,3.0,286.0,9990000.0,34930.06993006993,06760,Eje 3 Sur Sin Número,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,1,2.0,90.0,5950000.0,66111.11111111111,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Jrasesores,19.405299,-99.1649891,2.0,2,2.0,77.0,4747034.0,61649.792207792205,06760,Quintana Roo,Ciudad de México
+"Roma, Roma Norte, Cuauhtémoc, Distrito Federal",Oscarjuarezmontao,19.4029252,-99.1680476,2.0,2,3.0,111.0,6909413.0,62246.963963963964,06760,Calle Bajío,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.410758,-99.1684745,2.0,1,3.0,160.0,8500000.0,53125.0,06100,Avenida Michoacán,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.416758,-99.1624745,2.0,1,3.0,150.0,8000000.0,53333.333333333336,06700,Roma Norte,Ciudad de México
+"Constitucion, Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.4020693,-99.1824032,2.0,1,2.0,134.0,6137930.0,45805.44776119403,11800,Calle de la Constitución,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.413758,-99.1654745,2.0,1,3.0,160.0,8500000.0,53125.0,06700,Eje 2 Sur,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.413758,-99.1654745,2.0,1,3.0,150.0,8000000.0,53333.333333333336,06700,Eje 2 Sur,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.420787,-99.178499,2.0,1,2.0,85.0,4695000.0,55235.294117647056,11580,Avenida Chapultepec,Ciudad de México
+"Avenida Baja California 15, Roma Sur, Ciudad De México, Cdmx, México, Roma Sur, Cuauhtémoc, Distrito Federal",Metrica Inmobiliaria,19.4067443,-99.1561012,2.0,1,2.0,95.0,4570000.0,48105.26315789474,06760,Avenida Baja California,Ciudad de México
+"Constitucion, Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.4020558,-99.1824457,2.0,1,2.0,94.0,6288450.0,66898.40425531915,11800,Calle José María Vigil,Ciudad de México
+"Nayarit, Roma Sur, Cuauhtémoc, Distrito Federal",Hipoo Mx,19.4100208,-99.1609595,2.0,1,3.0,122.0,7040000.0,57704.91803278688,06760,Nayarit,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.441631,-99.14581,2.0,1,2.0,73.0,4527000.0,62013.69863013698,06300,Callejón Zarco,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.400076,-99.1843968,2.0,1,2.0,77.0,4827000.0,62688.31168831169,11800,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Cordoba, Roma Norte, Cuauhtémoc, Distrito Federal",Home Seekers,19.4124914,-99.1572585,1.0,1,2.0,76.0,4450000.0,58552.63157894737,06700,Córdoba,Ciudad de México
+"Tonala, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Levalgroup,19.4130341,-99.1614773,3.0,2,3.0,193.0,14148523.0,73308.40932642487,06700,Tonalá,Ciudad de México
+"Tonala 177 Depto 302 Ph, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Levalgroup,19.4130341,-99.1614773,2.0,2,2.0,91.0,13333718.0,146524.37362637362,06700,Tonalá,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4029284,-99.16806,2.0,2,3.0,111.0,7140000.0,64324.32432432433,06760,Calle Bajío,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4311322,-99.1681413,5.0,2,3.0,172.0,10900000.0,63372.09302325582,06500,Río Danubio,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4195256,-99.162549,2.0,3,2.0,140.0,8400000.0,60000.0,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4019283,-99.1690601,2.0,2,3.0,113.0,6000000.0,53097.345132743365,06760,Hermosillo,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Eka Soluciones Inmobiliarias,19.4120249,-99.1642866,2.0,1,2.0,77.0,5500000.0,71428.57142857143,06700,Calle de Chiapas,Ciudad de México
+"Sinaloa, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4202853,-99.1696874,2.0,2,1.0,158.0,6900000.0,43670.88607594937,06700,Sinaloa,Ciudad de México
+"Zacatecas, Roma Sur, Cuauhtémoc, Distrito Federal",Luxence,19.4446241,-99.1286416,3.0,2,3.0,284.0,12700000.0,44718.30985915493,06200,Aztecas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4172482,-99.1716012,1.0,1,1.0,36.0,3489158.0,96921.05555555556,06700,Colima,Ciudad de México
+"Tlacotalpan, Roma Norte, Cuauhtémoc, Distrito Federal",Gpobm3,19.4052563,-99.1662026,2.0,1,2.0,190.0,11317200.0,59564.21052631579,06760,Tlacotalpan,Ciudad de México
+"Tepeji, Roma Sur, Cuauhtémoc, Distrito Federal",Cattoribr,19.4078138,-99.1618723,2.0,2,3.0,151.0,7568500.0,50122.51655629139,06760,Tepeji,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4155297,-99.1666371,2.0,1,2.0,107.0,6250000.0,58411.214953271025,06100,Hipódromo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4049518,-99.1660872,2.0,2,3.0,113.0,6890000.0,60973.45132743363,06760,Tlacotalpan,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Homes Real Estate,19.4222565,-99.1564692,3.0,2,2.0,161.0,6990000.0,43416.14906832298,06700,Frontera,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.405299,-99.1649891,2.0,1,3.0,84.0,4157000.0,49488.09523809524,06760,Quintana Roo,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4158401,-99.1596792,2.0,2,3.0,201.0,11670000.0,58059.701492537315,06700,Zacatecas,Ciudad de México
+"Cordoba, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Satelite,19.4189,-99.1588,1.0,1,2.0,121.0,6995000.0,57809.9173553719,06700,Córdoba,Ciudad de México
+"Salina Cruz, Roma Sur, Cuauhtémoc, Distrito Federal",Veronica Porraz,19.4031573,-99.1650107,2.0,2,2.0,218.0,9995000.0,45848.62385321101,06760,Salina Cruz,Ciudad de México
+"Sinaloa, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4202448,-99.1695894,2.0,2,2.0,160.0,6900000.0,43125.0,06700,Roma Norte,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4451,-99.1461,3.0,1,2.0,146.0,8800000.0,60273.97260273973,06300,Eje 1 Norte,Ciudad de México
+"Salina Cruz, Roma Sur, Cuauhtémoc, Distrito Federal",Veronica Porraz,19.4031573,-99.1650107,2.0,2,2.0,220.0,9950000.0,45227.27272727273,06760,Salina Cruz,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,78.0,5093660.0,65303.333333333336,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,114.0,6836397.0,59968.39473684211,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,78.0,5073260.0,65041.794871794875,06760,Monterrey,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4202688,-99.1642694,3.0,2,2.0,192.0,9000000.0,46875.0,06700,Calle de Durango,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,75.0,4935667.0,65808.89333333333,06760,Monterrey,Ciudad de México
+"Cordoba, Roma Norte, Cuauhtémoc, Distrito Federal",Home Seekers,19.4124914,-99.1572585,2.0,2,2.0,127.0,8850000.0,69685.03937007874,06700,Córdoba,Ciudad de México
+"2 De Abril 2007, Roma, Monterrey, Nuevo León",Century21 Urbana,25.6562256,-100.2966267,2.0,1,3.0,103.1,4488936.0,43539.631425800195,64700,Río Sena,Nuevo León
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,107.0,6501913.0,60765.542056074766,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,67.0,4332353.0,64661.985074626864,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,67.0,4352753.0,64966.46268656717,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,75.0,4894867.0,65264.89333333333,06760,Monterrey,Ciudad de México
+"Viaducto, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.40132,-99.1681,2.0,1,3.0,84.0,4061000.0,48345.23809523809,06760,Calle Chilpancingo,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Homes Real Estate,19.4222565,-99.1564692,3.0,2,2.0,180.0,6100000.0,33888.88888888889,06700,Frontera,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,77.0,4617866.0,59972.28571428572,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,65.0,4272137.0,65725.18461538461,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,67.0,4393553.0,65575.41791044777,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,65.0,4251737.0,65411.338461538464,06760,Monterrey,Ciudad de México
+"Baja California, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,1,2.0,95.2,4570000.0,48004.20168067227,06760,Quintana Roo,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,75.0,4915267.0,65536.89333333333,06760,Monterrey,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4137406,-99.1610013,1.0,1,1.0,53.0,4494244.0,84797.05660377358,06700,Eje Vial 2A Sur,Ciudad de México
+"Queretaro, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.413676,-99.1654703,3.0,1,3.0,152.0,8500000.0,55921.05263157895,06700,Calle Querétaro,Ciudad de México
+"Av. Álvaro Obregón, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4182279,-99.16194,2.0,1,3.0,87.0,3750000.0,43103.44827586207,06700,Avenida Álvaro Obregón,Ciudad de México
+"San Luis Potosi 136, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,1.0,53.02,4492244.0,84727.34817050169,06700,Tabasco,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4137406,-99.1610013,3.0,2,3.0,129.0,11248826.0,87200.2015503876,06700,Eje Vial 2A Sur,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,141.0,7651263.0,54264.27659574468,06760,Tlacotalpan,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Prosperity,19.4229547,-99.1652534,2.0,1,2.0,85.0,4995000.0,58764.705882352944,06700,Roma Norte,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.3999283,-99.1710601,2.0,2,2.0,104.0,5700000.0,54807.692307692305,11800,Avenida José Martí,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4137406,-99.1610013,2.0,1,2.0,102.0,7463773.0,73174.24509803922,06700,Eje Vial 2A Sur,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4090847,-99.1643187,2.0,1,2.0,107.0,8521860.0,79643.55140186916,06760,Aguascalientes,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Cattoribr,19.4129403,-99.1615832,1.0,1,1.0,116.0,6795000.0,58577.58620689655,06700,Tonalá,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4234541,-99.1619184,1.0,1,1.0,70.0,3250000.0,46428.57142857143,06700,Avenida Chapultepec,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,244.0,8952615.0,36691.04508196721,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,228.0,8850000.0,38815.78947368421,06760,Tlacotalpan,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,74.0,4441570.0,60021.21621621621,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,89.0,7299250.0,82014.04494382022,06700,Coahuila,Ciudad de México
+"Tlacotalpan 89, Roma Sur, Cuauhtémoc, Distrito Federal",Century21 Living,19.4046152,-99.1662218,2.0,2,2.0,120.24,7550000.0,62791.08449767133,06760,Tlacotalpan,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.424552,-99.1583315,2.0,1,2.0,80.0,839652.0,10495.65,06700,Roma Norte,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4137406,-99.1610013,2.0,2,2.0,102.0,8026715.0,78693.2843137255,06700,Eje Vial 2A Sur,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,74.0,4419100.0,59717.56756756757,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,150.0,6111850.0,40745.666666666664,06700,Coahuila,Ciudad de México
+"Querétaro, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4153499,-99.1582168,2.0,2,3.0,129.0,10833000.0,83976.74418604652,06700,Eje 2 Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4019283,-99.1690601,2.0,2,3.0,149.0,9670000.0,64899.328859060406,06760,Hermosillo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.3999283,-99.1710601,2.0,2,3.0,112.0,6790000.0,60625.0,11800,Avenida José Martí,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.405299,-99.1649891,2.0,2,2.0,90.0,5700000.0,63333.333333333336,06760,Quintana Roo,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,134.0,7752143.0,57851.81343283582,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,126.0,7126687.0,56561.00793650794,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,130.0,7449503.0,57303.86923076923,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4046152,-99.1662218,2.0,2,2.0,136.0,7348623.0,54033.992647058825,06760,Tlacotalpan,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,88.0,7282720.0,82758.18181818182,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4992850.0,65695.3947368421,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,86.0,5956650.0,69263.37209302325,06700,Coahuila,Ciudad de México
+"Huatabampo 30, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,3.0,2,3.0,128.0,6958000.0,54359.375,06760,Quintana Roo,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Jlp Realty Homes,19.4153848,-99.1619716,2.0,2,2.0,112.0,13170500.0,117593.75,06700,Roma Norte,Ciudad de México
+"Querétaro, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4153499,-99.1582168,1.0,1,1.0,57.0,4377600.0,76800.0,06700,Eje 2 Sur,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,93.0,6030150.0,64840.32258064516,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,92.0,5924650.0,64398.36956521739,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,93.0,5937050.0,63839.24731182796,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,93.0,6767250.0,72766.12903225806,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,4655643.0,59687.730769230766,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4916300.0,64688.15789473684,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,5704875.0,75064.1447368421,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,99.0,9119400.0,92115.15151515152,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,93.0,5843950.0,62838.17204301075,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,93.0,5750850.0,61837.096774193546,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,92.0,6017550.0,65408.15217391304,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,92.0,5831750.0,63388.586956521736,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,92.0,6747750.0,73345.10869565218,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,89.0,6915220.0,77699.10112359551,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,89.0,7574580.0,85107.6404494382,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,84.0,6969200.0,82966.66666666667,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,4612462.0,59134.1282051282,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,4632090.0,59385.769230769234,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,4592835.0,58882.5,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,5041460.0,64634.10256410256,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,4710600.0,60392.307692307695,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,5222500.0,68717.1052631579,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,5069400.0,66702.63157894737,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,78.0,5324960.0,68268.71794871795,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4985050.0,65592.76315789473,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4908500.0,64585.52631578947,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4700054.0,61842.81578947369,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4831950.0,63578.28947368421,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4755400.0,62571.05263157895,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,103.0,9025380.0,87625.04854368932,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,76.0,4839750.0,63680.92105263158,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,103.0,8982870.0,87212.33009708738,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,86.0,6303500.0,73296.51162790698,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,86.0,6216700.0,72287.20930232559,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,86.0,6238400.0,72539.53488372093,06700,Coahuila,Ciudad de México
+"Departamentos Nuevos Roma Norte Coahuila, Cuauhtémoc, Distrito Federal",Bienesraiceslomelin,19.4109247,-99.1651635,2.0,1,2.0,86.0,6173300.0,71782.55813953489,06700,Coahuila,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Sata7784633,19.4052016,-99.1660064,2.0,2,3.0,293.0,11050000.0,37713.31058020478,06760,Quintana Roo,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,83.0,4643350.0,55943.97590361446,06700,Coahuila,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Kmk Inmobiliaria ,19.406299,-99.1639891,2.0,1,3.0,105.0,4900000.0,46666.666666666664,06760,Avenida Baja California,Ciudad de México
+"Nayarit, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4098231,-99.162138,2.0,1,3.0,142.0,7040000.0,49577.464788732395,06760,Eje Vial Eje 2 Poniente (Avenida Monterrey,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,74.0,4441570.0,60021.21621621621,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,5751680.0,59295.67010309279,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4676520.0,57734.81481481482,06700,Coahuila,Ciudad de México
+"Avenida Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,2.0,88.0,3500000.0,39772.72727272727,06700,Tabasco,Ciudad de México
+"Córdoba 223, Roma Norte, Cuauhtémoc, Distrito Federal",Kw Pedregal,19.4128016,-99.1572693,2.0,1,2.0,96.5,5150000.0,53367.87564766839,06700,Córdoba,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.3999518,-99.1710872,2.0,2,3.0,159.0,10030000.0,63081.76100628931,11800,Avenida José Martí,Ciudad de México
+"Tonala 177 Depto 301 Ph, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Levalgroup,19.4130341,-99.1614773,2.0,2,2.0,100.0,11720768.0,117207.68,06700,Tonalá,Ciudad de México
+"Querétaro, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4153499,-99.1582168,3.0,3,3.0,164.0,13868600.0,84564.63414634146,06700,Eje 2 Sur,Ciudad de México
+"Querétaro, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4153499,-99.1582168,2.0,1,2.0,77.0,5463500.0,70954.54545454546,06700,Eje 2 Sur,Ciudad de México
+"Acayucan, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4043152,-99.156675,2.0,1,2.0,99.0,4100000.0,41414.14141414141,06760,Acayucan,Ciudad de México
+"Querétaro, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4153499,-99.1582168,2.0,2,2.0,107.0,9591000.0,89635.5140186916,06700,Eje 2 Sur,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Luxence,19.4182766,-99.166438,2.0,2,2.0,160.0,10600000.0,66250.0,06700,Colima,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.405299,-99.1649891,2.0,2,2.0,92.0,6037000.0,65619.56521739131,06760,Quintana Roo,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Cattoribr,19.4129403,-99.1615832,2.0,1,2.0,114.0,8550000.0,75000.0,06700,Tonalá,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Xlife Real Estate,19.4203566,-99.1587749,2.0,1,3.0,140.0,6500000.0,46428.57142857143,06700,Colima,Ciudad de México
+"Venta De Departamento En Colonia Roma, Roma Sur, Cuauhtémoc, Distrito Federal",Skgasesoresinmobiliarios,19.4095846,-99.1575732,2.0,2,3.0,154.0,22330000.0,145000.0,06760,Toluca,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4676520.0,57734.81481481482,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4829620.0,59624.93827160494,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,74.0,4419100.0,59717.56756756757,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,74.0,4419100.0,59717.56756756757,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,5135820.0,63405.18518518518,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,5999560.0,61851.13402061856,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4753070.0,58679.87654320987,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,83.0,5222500.0,62921.68674698795,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,83.0,4949550.0,59633.132530120485,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,93.0,5064690.0,54459.032258064515,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,131.0,6360510.0,48553.51145038168,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,6042960.0,62298.55670103093,06700,Coahuila,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4168211,-99.1596475,2.0,2,3.0,161.0,10600000.0,65838.50931677019,06700,Plaza Luis Cabrera,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,119.0,6290450.0,52860.924369747896,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,5856980.0,60381.237113402065,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,6229380.0,64220.41237113402,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,6042960.0,62298.55670103093,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4829620.0,59624.93827160494,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,78.0,4632090.0,59385.769230769234,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,78.0,4612462.0,59134.1282051282,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,93.0,5845980.0,62860.0,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,78.0,4710600.0,60392.307692307695,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,6129760.0,63193.40206185567,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,5999560.0,61851.13402061856,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,78.0,4655643.0,59687.730769230766,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,120.0,6306550.0,52554.583333333336,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,6064660.0,62522.26804123711,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,6129760.0,63193.40206185567,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,5763880.0,59421.44329896907,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,83.0,4719900.0,56866.26506024096,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,5844580.0,60253.40206185567,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,5751680.0,59295.67010309279,06700,Coahuila,Ciudad de México
+"Puerto Mexico, Roma Sur, Cuauhtémoc, Distrito Federal",Ps Bienesraices,19.4037919,-99.1649783,2.0,2,2.0,114.0,8000000.0,70175.43859649122,06760,Puerto México,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Morris Lan,19.406804,-99.169478,3.0,1,2.0,176.0,9500000.0,53977.27272727273,06100,Calle Chilpancingo,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4829620.0,59624.93827160494,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,85.0,4918890.0,57869.294117647056,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4753070.0,58679.87654320987,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,83.0,4796450.0,57788.55421686747,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4753070.0,58679.87654320987,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4676520.0,57734.81481481482,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4829620.0,59624.93827160494,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,2,2.0,97.0,6216180.0,64084.32989690721,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,78.0,4655643.0,59687.730769230766,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,157.0,6380520.0,40640.25477707006,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,5135820.0,63405.18518518518,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,81.0,4906170.0,60570.0,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,93.0,5845980.0,62860.0,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,183.0,8026360.0,43859.89071038251,06700,Coahuila,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4087933,-99.1652066,2.0,1,2.0,151.0,9859115.0,65292.15231788079,06760,Aguascalientes,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Primer Nivel Inmobiliaria,19.4211605,-99.1554569,1.0,1,1.0,62.0,4206000.0,67838.70967741935,06700,Colima,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.413879,-99.160909,1.0,1,1.0,60.0,4623086.0,77051.43333333333,06700,Eje Vial 2A Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.405299,-99.1649891,2.0,2,2.0,91.0,6650000.0,73076.92307692308,06760,Quintana Roo,Ciudad de México
+"Departamentos En Preventa Av. Eugenio Garza Sada, Zona Distrito Tec (vav), Roma, Monterrey, Nuevo León",Urban Properties,25.6565947,-100.2953585,1.0,1,1.0,40.0,2325668.0,58141.7,64810,Avenida Eugenio Garza Sada,Nuevo León
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,3.0,270.0,14040000.0,52000.0,06700,Tabasco,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4109231,-99.1651722,2.0,1,2.0,97.0,5670780.0,58461.64948453608,06700,Coahuila,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4148155,-99.1603133,2.0,1,3.0,145.0,9080660.0,62625.24137931035,06700,#229,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.405299,-99.1649891,2.0,2,2.0,92.0,6300000.0,68478.26086956522,06760,Quintana Roo,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Century21bautistayasociados,19.4046152,-99.1662218,2.0,2,2.0,120.0,7883287.0,65694.05833333333,06760,Tlacotalpan,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rematadascom,19.4113464,-99.1629528,3.0,1,3.0,100.0,1758320.0,17583.2,06700,147,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Morris Lan,19.406804,-99.169478,2.0,1,2.0,105.0,5350000.0,50952.380952380954,06100,Calle Chilpancingo,Ciudad de México
+"Viaducto Miguel Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,1.0,1,2.0,67.0,2690000.0,40149.25373134328,06760,Quintana Roo,Ciudad de México
+"Tepeji, Roma Sur, Cuauhtémoc, Distrito Federal",Cattoribr,19.4078138,-99.1618723,2.0,2,3.0,162.0,8093500.0,49959.87654320987,06760,Tepeji,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Century21bautistayasociados,19.4046152,-99.1662218,2.0,2,2.0,106.0,8952615.0,84458.6320754717,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4046152,-99.1662218,2.0,2,2.0,120.0,7650000.0,63750.0,06760,Tlacotalpan,Ciudad de México
+"Tlacotalpan 89, Roma Sur, Cuauhtémoc, Distrito Federal",Century21 Living,19.4046152,-99.1662218,2.0,2,2.0,120.55,7030000.0,58316.05143094152,06760,Tlacotalpan,Ciudad de México
+"Nayarit, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4098231,-99.162138,2.0,1,2.0,86.0,4700000.0,54651.16279069767,06760,Eje Vial Eje 2 Poniente (Avenida Monterrey,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Century21bautistayasociados,19.4046152,-99.1662218,2.0,2,2.0,120.0,7651263.0,63760.525,06760,Tlacotalpan,Ciudad de México
+"Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Inmoinn,19.4029252,-99.1680476,2.0,2,2.0,111.0,6580413.0,59283.0,06760,Calle Bajío,Ciudad de México
+"Tonala, Roma Norte, Cuauhtémoc, Distrito Federal",Avitana,19.4210293,-99.1635414,1.0,1,1.0,54.0,3912000.0,72444.44444444444,06700,Tonalá,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4054829,-99.1647868,2.0,2,3.0,111.0,6790000.0,61171.17117117117,06760,Quintana Roo,Ciudad de México
+"Córdoba, Roma Norte, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4128016,-99.1572693,1.0,1,1.0,50.0,3147772.0,62955.44,06700,Córdoba,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4009518,-99.1700872,2.0,2,3.0,112.0,6890000.0,61517.857142857145,06760,Avenida Insurgentes Sur,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,2.0,86.8,5845980.0,67350.0,06700,Tabasco,Ciudad de México
+"Puerto Mexico, Roma Sur, Cuauhtémoc, Distrito Federal",Ps Bienesraices,19.4037919,-99.1649783,2.0,2,1.0,154.0,7700000.0,50000.0,06760,Puerto México,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4168211,-99.1596475,3.0,2,3.0,193.0,10050000.0,52072.538860103625,06700,Plaza Luis Cabrera,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Sata7784633,19.4222428,-99.1627869,1.0,1,1.0,39.0,3516884.0,90176.51282051284,06700,Puebla,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4158401,-99.1596792,2.0,2,2.0,161.0,9550000.0,59316.7701863354,06700,Zacatecas,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.438631,-99.14881,3.0,2,3.0,150.0,8706563.0,58043.753333333334,06300,Calle Guerrero,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4090847,-99.1643187,1.0,1,2.0,64.0,4340240.0,67816.25,06760,Aguascalientes,Ciudad de México
+"Cordoba, Roma Norte, Cuauhtémoc, Distrito Federal",Home Seekers,19.4124914,-99.1572585,2.0,1,2.0,82.0,4850000.0,59146.34146341463,06700,Córdoba,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4155552,-99.1615919,2.0,2,3.0,270.0,13500000.0,50000.0,06700,Zacatecas,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Viva,19.421399,-99.1587768,2.0,2,2.0,166.0,11500000.0,69277.10843373495,06700,Calle de Durango,Ciudad de México
+"Cozumel, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4171424,-99.1703275,1.0,1,1.0,65.0,5570000.0,85692.30769230769,06700,Cozumel,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4046152,-99.1662218,2.0,2,3.0,121.0,8700000.0,71900.82644628099,06760,Tlacotalpan,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4158401,-99.1596792,2.0,2,3.0,194.0,11100000.0,57216.49484536082,06700,Zacatecas,Ciudad de México
+"Av. Baja California, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4067443,-99.1561012,2.0,1,2.0,89.0,4720000.0,53033.70786516854,06760,Avenida Baja California,Ciudad de México
+"Viaducto, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,1,2.0,91.0,4061005.0,44626.42857142857,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,1,2.0,107.0,8521860.0,79643.55140186916,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,1,2.0,115.0,5342425.0,46455.86956521739,06760,Quintana Roo,Ciudad de México
+"Salamanca, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.42064,-99.1702226,1.0,1,1.0,40.0,4120000.0,103000.0,06700,Eje Vial 3 Poniente,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.403459,-99.1640113,2.0,2,3.0,149.0,9670000.0,64899.328859060406,06760,Calle Manzanillo,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Plus,19.4195,-99.1589,2.0,1,3.0,112.0,5600000.0,50000.0,06700,Tabasco,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.415626,-99.1630521,3.0,2,3.0,144.0,10134810.0,70380.625,06700,Monterrey,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4081659,-99.1643788,1.0,1,2.0,70.0,4578675.0,65409.642857142855,06760,Nautla,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,86.0,4983878.0,57952.06976744186,06760,Quintana Roo,Ciudad de México
+"Torreon, Roma Sur, Cuauhtémoc, Distrito Federal",Morris Lan,19.402913,-99.1613826,2.0,2,3.0,164.0,8229770.0,50181.5243902439,06760,Torreón,Ciudad de México
+"Puerto Mexico, Roma Sur, Cuauhtémoc, Distrito Federal",Ps Bienesraices,19.4037919,-99.1649783,1.0,1,1.0,80.0,5700000.0,71250.0,06760,Puerto México,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,142.0,7154848.0,50386.25352112676,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,87.0,5138544.0,59063.72413793104,06760,Quintana Roo,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4054829,-99.1647868,2.0,2,3.0,111.0,6790000.0,61171.17117117117,06760,Quintana Roo,Ciudad de México
+"Roma Privada, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6441572,-100.2968073,2.0,1,3.0,103.0,4993491.0,48480.49514563107,64740,Avenida Luis Elizondo,Nuevo León
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,3.0,98.0,5790664.0,59088.4081632653,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,87.0,5190136.0,59656.73563218391,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,165.0,8094465.0,49057.36363636364,06760,Quintana Roo,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.403459,-99.1640113,2.0,2,3.0,149.0,9670000.0,64899.328859060406,06760,Calle Manzanillo,Ciudad de México
+"Puebla, Roma Norte, Cuauhtémoc, Distrito Federal",Licmarthasbarandalicmar,19.4206466,-99.170547,2.0,2,2.0,99.0,7690640.0,77683.23232323233,06700,Puebla,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,86.0,5216099.0,60652.313953488374,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5761134.0,58787.08163265306,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,146.0,7298901.0,49992.47260273973,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5876357.0,59962.82653061225,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,84.0,5093171.0,60632.98809523809,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5703523.0,58199.21428571428,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,3.0,98.0,5732989.0,58499.88775510204,06760,Quintana Roo,Ciudad de México
+"Sinaloa, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,2.0,160.0,6900000.0,43125.0,06700,Tabasco,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4168211,-99.1596475,3.0,1,3.0,150.0,10400000.0,69333.33333333333,06700,Plaza Luis Cabrera,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4153088,-99.1632172,3.0,2,3.0,150.0,10549350.0,70329.0,06700,Zacatecas,Ciudad de México
+"Álvaro Obregón, Roma Norte, Cuauhtémoc, Distrito Federal",Century21promozurangel,19.4173906,-99.1630212,1.0,1,1.0,33.59,3111913.0,92644.03096159572,06700,Avenida Álvaro Obregón,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,2,2.0,140.0,7800000.0,55714.28571428572,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,1,2.0,141.0,9859115.0,69922.80141843972,06760,Quintana Roo,Ciudad de México
+"Sinaloa, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,1.0,158.0,6900000.0,43670.88607594937,06700,Tabasco,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4226693,-99.1552628,2.0,2,2.0,122.0,7621205.0,62468.89344262295,06700,9,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,3.0,98.0,5675313.0,57911.357142857145,06760,Quintana Roo,Ciudad de México
+"Queretaro, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,1,2.0,77.0,5400000.0,70129.87012987013,06700,Tabasco,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Remax Real Estate Consultants,19.4088,-99.1637,2.0,1,2.0,128.0,8521860.0,66577.03125,06760,Medellín,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,3.0,95.0,5299915.0,55788.57894736842,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5450689.0,55619.27551020408,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5473077.0,55847.72448979592,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,1,2.0,81.0,5503280.0,67941.72839506173,06760,Quintana Roo,Ciudad de México
+"Frontera, Roma Norte, Cuauhtémoc, Distrito Federal",Distritocapitalcondesa,19.4245374,-99.1573777,2.0,1,2.0,129.0,8000000.0,62015.50387596899,06700,7,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4053485,-99.1552971,2.0,2,3.0,111.0,7140000.0,64324.32432432433,06760,Calle Bajío,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4184898,-99.1637389,2.0,1,2.0,117.0,9200000.0,78632.47863247863,06700,Tabasco,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,87.0,5006952.0,57551.1724137931,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,84.0,4796482.0,57100.97619047619,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,98.0,5645911.0,57611.33673469387,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,84.0,4994275.0,59455.65476190476,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,3.0,84.0,5559961.0,66190.01190476191,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,87.0,4903769.0,56365.16091954023,06760,Quintana Roo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4137406,-99.1610013,2.0,2,2.0,163.0,9935982.0,60956.94478527607,06700,Eje Vial 2A Sur,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Urp Propiedades,19.4030201,-99.1687004,1.0,1,1.0,51.0,3200000.0,62745.098039215685,06760,Calle Chilpancingo,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Covein Br,19.4138909,-99.1557557,1.0,1,2.0,75.0,4450000.0,59333.333333333336,06700,Calle de Chiapas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Barragan Br,19.4195256,-99.162549,2.0,2,3.0,93.0,6873000.0,73903.2258064516,06700,Calle de Durango,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4052563,-99.1662026,2.0,2,2.0,140.0,7800000.0,55714.28571428572,06760,Tlacotalpan,Ciudad de México
+"Av. Baja California, Roma Sur, Cuauhtémoc, Distrito Federal",Century 21covarrubias,19.4063969,-99.1628482,2.0,2,2.0,98.0,6850000.0,69897.95918367348,06760,Eje 3 Sur Sin Número,Ciudad de México
+"Valladolid0, Roma Norte, Cuauhtémoc, Distrito Federal",Sil Mexico,19.419863,-99.1682223,1.0,1,1.0,42.0,3425000.0,81547.61904761905,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4185297,-99.1636371,2.0,1,2.0,95.0,5300000.0,55789.47368421053,06700,235,Ciudad de México
+"Baja California, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.406153,-99.1631827,2.0,1,2.0,72.0,3950000.0,54861.11111111111,06760,Roma Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.405299,-99.1649891,2.0,2,3.0,93.0,6873000.0,73903.2258064516,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.405299,-99.1649891,2.0,2,3.0,111.0,4950000.0,44594.59459459459,06760,Quintana Roo,Ciudad de México
+"Roma, Monterrey, Nuevo León",House Inm,25.6542625,-100.2978762,1.0,1,1.0,48.0,2750000.0,57291.666666666664,64700,Palestina,Nuevo León
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Goldstone Bienesraices,19.4188488,-99.1613324,2.0,2,2.0,185.0,14346500.0,77548.64864864865,06700,Tabasco,Ciudad de México
+"Frontera, Roma Norte, Cuauhtémoc, Distrito Federal",Cbmobikapremium,19.4181531,-99.1652014,2.0,1,2.0,133.0,6800000.0,51127.81954887218,06700,Tabasco,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Luxence,19.4089339,-99.1617879,2.0,1,2.0,58.0,3835325.0,66126.29310344828,06760,Monterrey,Ciudad de México
+"Bajío 315, Roma Sur, Cuauhtémoc, Distrito Federal",Profesionales Inmobiliariosmx,19.4029284,-99.16806,2.0,2,2.0,104.0,6426000.0,61788.46153846154,06760,Calle Bajío,Ciudad de México
+"Jalapa, Roma Norte, Cuauhtémoc, Distrito Federal",Espacios Inmobiliarios,19.4204591,-99.1614862,2.0,1,3.0,150.0,5900000.0,39333.333333333336,06700,Jalapa,Ciudad de México
+"Constitucion, Roma Sur, Cuauhtémoc, Distrito Federal",Barragan Br,19.4020221,-99.1823889,3.0,2,3.0,169.0,9687900.0,57324.85207100592,11800,Calle de la Constitución,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Casasydepas Com,19.4050031,-99.1674956,2.0,1,2.0,84.0,5006952.0,59606.57142857143,06760,Quintana Roo,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4046152,-99.1662218,2.0,2,2.0,127.0,7030000.0,55354.330708661415,06760,Tlacotalpan,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,1,2.0,176.0,9500000.0,53977.27272727273,06760,Quintana Roo,Ciudad de México
+"Quintana Roo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4058863,-99.1641146,2.0,2,2.0,135.0,7096878.0,52569.46666666667,06760,Quintana Roo,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Urp Propiedades,19.4130341,-99.1614773,2.0,2,2.0,137.0,9905250.0,72301.09489051095,06700,Tonalá,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4188488,-99.1613324,2.0,1,3.0,112.0,5600000.0,50000.0,06700,Tabasco,Ciudad de México
+"Puebla, Roma Norte, Cuauhtémoc, Distrito Federal",Licmarthasbarandalicmar,19.4206466,-99.170547,2.0,2,2.0,107.0,9086780.0,84923.17757009345,06700,Puebla,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Quality Gtz,19.413676,-99.1654703,3.0,1,3.0,145.0,8500000.0,58620.68965517241,06700,Calle Querétaro,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4052563,-99.1662026,2.0,1,2.0,172.0,8965800.0,52126.74418604651,06760,Tlacotalpan,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Byg Realestate,19.4195256,-99.162549,2.0,2,2.0,85.0,6300000.0,74117.64705882352,06700,Calle de Durango,Ciudad de México
+"San Luis Potosí, Roma Norte, Cuauhtémoc, Distrito Federal",Business Property,19.413879,-99.160909,2.0,1,2.0,98.0,4650000.0,47448.97959183674,06700,Eje Vial 2A Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4085345,-99.1644733,2.0,1,2.0,78.0,4996100.0,64052.5641025641,06760,Nautla,Ciudad de México
+"Valladolid0, Roma Norte, Cuauhtémoc, Distrito Federal",Mexicosil,19.417759,-99.167813,1.0,1,1.0,42.0,3425000.0,81547.61904761905,06700,Valladolid,Ciudad de México
+"Roma Privada, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6455113,-100.3000259,2.0,1,3.0,105.0,5118269.0,48745.41904761905,64740,Calle Florencia Nightingale,Nuevo León
+"Venta De Departamento En La Roma, Roma Sur, Cuauhtémoc, Distrito Federal",Skgasesoresinmobiliarios,19.4196927,-99.1560364,2.0,1,2.0,129.0,8200000.0,63565.891472868214,06700,Frontera,Ciudad de México
+"Veracruz, Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4180125,-99.1748189,1.0,1,1.0,58.0,5420077.0,93449.60344827586,06700,Avenida Veracruz,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Safe Rent,19.412896,-99.1623996,2.0,1,2.0,57.0,4050000.0,71052.63157894737,06700,Calle de Chiapas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.405299,-99.1649891,2.0,2,2.0,130.0,4780000.0,36769.230769230766,06760,Quintana Roo,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4117559,-99.1649783,1.0,1,1.0,58.0,5500000.0,94827.58620689657,06700,Calle de Chiapas,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4184822,-99.1614643,2.0,1,3.0,80.0,3840000.0,48000.0,06700,Jalapa,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4195256,-99.162549,1.0,1,1.0,31.0,3060008.0,98709.93548387096,06700,Calle de Durango,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4017853,-99.168802,2.0,2,3.0,157.0,840259.0,5351.968152866242,06760,Hermosillo,Ciudad de México
+"Av. Cuahtemoc, Roma Sur, Cuauhtémoc, Distrito Federal",Heyserenta Com,19.4055473,-99.1560374,2.0,1,3.0,93.0,4190000.0,45053.76344086022,06760,403,Ciudad de México
+"San Luis Potosi, Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.413879,-99.160909,1.0,1,1.0,60.0,4500000.0,75000.0,06700,Eje Vial 2A Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,1,3.0,193.0,6195000.0,32098.44559585492,06760,Quintana Roo,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4296796,-99.1576152,1.0,1,2.0,80.0,4200000.0,52500.0,06600,Roma,Ciudad de México
+"Roma Privada, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6446601,-100.2947474,2.0,1,3.0,112.0,5511689.0,49211.50892857143,64740,Avenida Luis Elizondo,Nuevo León
+"Medellin340, Roma Sur, Cuauhtémoc, Distrito Federal",Círculo Inmobiliario,19.404442,-99.162688,2.0,1,2.0,150.0,920000.0,6133.333333333333,06760,Eje Vial 3 Poniente,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Spacio Bienesraices,19.4036152,-99.1672218,2.0,1,2.0,106.0,7126687.0,67232.89622641509,06760,Tuxpan,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,111.0,6870000.0,61891.89189189189,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,180.0,11050000.0,61388.88888888889,06760,Quintana Roo,Ciudad de México
+"Queretaro, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwellbankercity,19.4149444,-99.1600968,2.0,2,3.0,108.0,7676040.0,71074.44444444444,06700,Calle Querétaro,Ciudad de México
+"Roma Sur, Monterrey, Nuevo León",Enders Inmuebles,25.6471662,-100.2975775,2.0,2,2.0,82.0,4100000.0,50000.0,64700,Rosa Bonheur,Nuevo León
+"Nayarit, Roma Sur, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4100273,-99.161073,2.0,1,2.0,77.0,4700000.0,61038.96103896104,06760,Nayarit,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Constantino Bienes Raices,19.4158447,-99.1592414,1.0,1,2.0,88.0,2690000.0,30568.18181818182,06700,Cerrada Orizaba,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,1,2.0,85.0,4595000.0,54058.82352941176,06700,Tabasco,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,93.0,6306550.0,67812.36559139784,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,112.0,6790000.0,60625.0,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,134.0,7650000.0,57089.55223880597,06760,Quintana Roo,Ciudad de México
+"Cuahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,2,2.0,83.17,5363485.0,64488.21690513406,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,103.0,7780000.0,75533.98058252427,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,1.0,1,3.0,163.0,10200000.0,62576.68711656442,06760,Quintana Roo,Ciudad de México
+"2 De Abril- Jesus Dionisio Gonzalez, Roma, Monterrey, Nuevo León",C21 Solorzanoyasociados,25.6542625,-100.2978762,2.0,1,4.0,85.5,4084722.0,47774.52631578947,64700,Palestina,Nuevo León
+"Av Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.422946,-99.1652713,2.0,1,2.0,93.0,4595000.0,49408.602150537634,06700,Roma Norte,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4127648,-99.1605674,1.0,1,2.0,84.0,5500000.0,65476.19047619047,06700,Calle de Chiapas,Ciudad de México
+"Cordoba, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4147648,-99.1578207,2.0,1,3.0,86.0,4495000.0,52267.441860465115,06700,Córdoba,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,112.0,6870000.0,61339.28571428572,06760,Quintana Roo,Ciudad de México
+"Snsm, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,137.0,9905250.0,72301.09489051095,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,90.0,6451941.0,71688.23333333334,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,86.0,5999560.0,69762.32558139534,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,95.0,6795009.0,71526.41052631578,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,117.0,7250000.0,61965.81196581197,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,148.0,11390000.0,76959.45945945945,06760,Quintana Roo,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4168211,-99.1596475,2.0,2,2.0,117.0,9350000.0,79914.52991452992,06700,Plaza Luis Cabrera,Ciudad de México
+"Departamentos En Preventa Zona Tec Monterrey, Roma, Monterrey, Nuevo León",Mundo Raiz,25.6559439,-100.2964731,1.0,1,2.0,41.0,2392000.0,58341.46341463415,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.4226693,-99.1552628,2.0,2,2.0,150.0,9190720.0,61271.46666666667,06700,9,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,137.0,9905250.0,72301.09489051095,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,149.0,9670000.0,64899.328859060406,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,4.0,1,3.0,117.0,8854256.0,75677.4017094017,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,111.0,7010000.0,63153.15315315315,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,108.0,13170500.0,121949.07407407407,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,89.0,8584000.0,96449.4382022472,06760,Quintana Roo,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,2,3.0,111.0,6790000.0,61171.17117117117,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,1,2.0,111.0,5550000.0,50000.0,06760,Quintana Roo,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4159657,-99.163205,3.0,2,3.0,187.0,10850000.0,58021.39037433155,06700,198,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,78.0,4710600.0,60392.307692307695,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,76.0,6661750.0,87654.6052631579,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,99.0,9694000.0,97919.19191919192,06760,Quintana Roo,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4155552,-99.1615919,2.0,2,3.0,270.0,14040000.0,52000.0,06700,Zacatecas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4084483,-99.1641243,2.0,1,2.0,74.0,4369000.0,59040.54054054054,06760,Nautla,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4058661,-99.1605993,3.0,2,3.0,140.0,8706563.0,62189.735714285714,06760,Linares,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,125.0,7350000.0,58800.0,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,112.0,6790000.0,60625.0,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,141.0,7550000.0,53546.09929078014,06760,Quintana Roo,Ciudad de México
+"Calle Manzanillo, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4109219,-99.1662218,1.0,1,1.0,52.0,3500000.0,67307.69230769231,06700,Calle Manzanillo,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4146375,-99.1574697,1.0,1,1.0,70.0,4320000.0,61714.28571428572,06700,Córdoba,Ciudad de México
+"Av. Insurgentes Sur179, Roma Norte, Cuauhtémoc, Distrito Federal",Hc Hogar Bienes Raices,19.421902,-99.1636,1.0,1,1.0,34.0,2820000.0,82941.17647058824,06700,Avenida Insurgentes Sur,Ciudad de México
+"Frontera, Roma Norte, Cuauhtémoc, Distrito Federal",Colokrte ,19.4148864,-99.1549892,2.0,1,2.0,129.0,8200000.0,63565.891472868214,06700,Frontera,Ciudad de México
+"Chilpancingo, Roma Norte, Cuauhtémoc, Distrito Federal",Colokrte ,19.4047228,-99.1693665,1.0,1,1.0,51.0,3268137.0,64081.117647058825,06100,Avenida de los Insurgentes Sur,Ciudad de México
+"Zacatecas, Roma Sur, Cuauhtémoc, Distrito Federal",Quality Habitat,19.4162304,-99.1575166,2.0,2,2.0,127.0,8000000.0,62992.12598425197,06700,Zacatecas,Ciudad de México
+"Departamentos En Preventa Zona Tec Monterrey, Roma, Monterrey, Nuevo León",Mundo Raiz,25.6559439,-100.2964731,1.0,1,1.0,40.0,2326000.0,58150.0,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"Puebla 277 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213841,-99.1690072,2.0,2,2.0,71.0,5580000.0,78591.54929577465,06700,Puebla,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4114483,-99.1611243,2.0,1,2.0,74.0,4369000.0,59040.54054054054,06760,Tonalá,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4105302,-99.1656737,2.0,1,2.0,81.0,4753000.0,58679.01234567901,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4119026,-99.1596531,2.0,2,2.0,97.0,5752000.0,59298.969072164946,06700,Coahuila,Ciudad de México
+"Michoacan66, Roma Sur, Cuauhtémoc, Distrito Federal",Graciela Graze,19.411306,-99.173186,3.0,1,3.0,186.0,11000000.0,59139.78494623656,06100,66,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwellbankerpremium,19.4147532,-99.1605853,2.0,3,3.0,154.0,17864000.0,116000.0,06700,Calle Querétaro,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4114483,-99.1611243,2.0,1,2.0,90.0,4300000.0,47777.77777777778,06760,Tonalá,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4156597,-99.164933,3.0,2,3.0,220.0,13500000.0,61363.63636363636,06700,Guanajuato,Ciudad de México
+"Morelia, Roma Norte, Cuauhtémoc, Distrito Federal",Almanza Inmobiliaria,19.4199917,-99.15528,2.0,1,3.0,99.0,5140000.0,51919.19191919192,06700,Calle Morelia,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4155552,-99.1615919,2.0,2,2.0,161.0,8398000.0,52161.490683229815,06700,Zacatecas,Ciudad de México
+"Departamentos En Preventa Zona Tec Monterrey, Roma, Monterrey, Nuevo León",Mundo Raiz,25.6559439,-100.2964731,1.0,1,3.0,82.0,4250000.0,51829.26829268293,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,56.0,4496000.0,80285.71428571429,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,7210.0,4198000.0,582.246879334258,06760,Quintana Roo,Ciudad de México
+"Puebla 277 Roma Norte, Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213841,-99.1690072,2.0,2,2.0,71.0,5625000.0,79225.35211267606,06700,Puebla,Ciudad de México
+"Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213841,-99.1690072,2.0,2,2.0,104.0,7390000.0,71057.69230769231,06700,Puebla,Ciudad de México
+"Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213841,-99.1690072,3.0,2,3.0,123.0,13800000.0,112195.12195121952,06700,Puebla,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Remax Real Estate Consultants,19.4088,-99.1637,1.0,1,2.0,66.0,4340240.0,65761.21212121213,06760,Medellín,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4028811,-99.168873,1.0,1,2.0,53.0,3590000.0,67735.84905660378,06760,Calle Bajío,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,3.0,2,3.0,140.0,8706563.0,62189.735714285714,06760,Quintana Roo,Ciudad de México
+"Puebla 277 Roma Norte, Cuauhtémoc, Distrito Federal",Investemx,19.4213841,-99.1690072,2.0,2,3.0,108.0,12400000.0,114814.81481481482,06700,Puebla,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,1.0,1,2.0,66.0,4340240.0,65761.21212121213,06760,Quintana Roo,Ciudad de México
+"Alejandria, Roma Sur, Monterrey, Nuevo León",Century21platinumrealty,25.656675,-100.2944792,2.0,2,2.0,82.8,3923802.0,47388.913043478264,64700,Alejandría,Nuevo León
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4029252,-99.1680476,2.0,1,2.0,99.0,6580413.0,66468.81818181818,06760,Calle Bajío,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4137406,-99.1610013,1.0,1,1.0,60.0,4296668.0,71611.13333333333,06700,Eje Vial 2A Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,1.0,1,1.0,44.0,3615970.0,82181.13636363637,06030,Paseo de La Reforma Norte,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030025,-99.1687442,1.0,1,1.0,51.0,3270000.0,64117.64705882353,06760,Calle Chilpancingo,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Mym Consultores Inmobiliarios,19.4030025,-99.1687442,1.0,1,1.0,51.0,3270000.0,64117.64705882353,06760,Calle Chilpancingo,Ciudad de México
+"Bajío315, Roma Sur, Cuauhtémoc, Distrito Federal",Hc Hogar Bienes Raices,19.402932,-99.168069,2.0,1,2.0,91.0,6870000.0,75494.5054945055,06760,Calle Bajío,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,54.0,4321857.0,80034.38888888889,06700,Calle de Durango,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4052563,-99.1662026,2.0,2,3.0,120.0,8700000.0,72500.0,06760,Tlacotalpan,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4239626,-99.1609669,1.0,1,3.0,75.0,900901.0,12012.013333333334,06700,Avenida Chapultepec,Ciudad de México
+"Alejandria, Roma Sur, Monterrey, Nuevo León",Century21platinumrealty,25.656675,-100.2944792,1.0,2,1.0,41.03,2176522.0,53047.08749695345,64700,Alejandría,Nuevo León
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4127648,-99.1605674,2.0,1,2.0,103.0,6500000.0,63106.796116504855,06700,Calle de Chiapas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,107.0,7040000.0,65794.39252336448,06760,Quintana Roo,Ciudad de México
+"Acayucan  48, Roma Sur, Cuauhtémoc, Distrito Federal",Universum Real Estate,19.4043616,-99.1566638,2.0,1,2.0,83.0,3890000.0,46867.469879518074,06760,Acayucan,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4155552,-99.1615919,2.0,2,3.0,202.0,10513880.0,52048.91089108911,06700,Zacatecas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4108805,-99.1652582,2.0,2,2.0,180.0,7780000.0,43222.22222222222,06700,Coahuila,Ciudad de México
+"Calle Querétaro, Roma Norte, Ciudad De México, Cdmx, México, Roma Norte, Cuauhtémoc, Distrito Federal",Mater Bienes Raices,19.4148447,-99.1602414,1.0,1,1.0,112.0,6750000.0,60267.857142857145,06700,#229,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4088805,-99.1672582,2.0,2,2.0,180.0,7780000.0,43222.22222222222,06760,Tlacotalpan,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4134483,-99.1591243,2.0,1,2.0,75.0,4369000.0,58253.333333333336,06700,Calle de Chiapas,Ciudad de México
+"Iguala, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4019788,-99.1674782,2.0,2,3.0,132.0,6800000.0,51515.15151515151,06760,Iguala,Ciudad de México
+"Zacatecas, Roma Sur, Cuauhtémoc, Distrito Federal",Quality Habitat,19.4162334,-99.1574852,2.0,2,2.0,128.0,9481000.0,74070.3125,06700,Zacatecas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4056152,-99.1652218,2.0,2,2.0,188.0,8850000.0,47074.46808510638,06760,Quintana Roo,Ciudad de México
+"Córdoba 229, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,1,2.0,70.0,5135000.0,73357.14285714286,06700,Tabasco,Ciudad de México
+"Córdoba  229, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,2.0,107.0,9736000.0,90990.65420560748,06700,Tabasco,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Coldwellbankeribanza,19.4085287,-99.1660473,2.0,1,2.0,151.0,9344300.0,61882.78145695364,06760,Aguascalientes,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4188488,-99.1613324,2.0,2,2.0,215.0,12900000.0,60000.0,06700,Tabasco,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4168211,-99.1596475,2.0,2,2.0,194.0,10050000.0,51804.12371134021,06700,Plaza Luis Cabrera,Ciudad de México
+"Guanajuato 000, Roma Norte, Cuauhtémoc, Distrito Federal",Bernadette Carral K ,19.4168211,-99.1596475,2.0,2,2.0,143.0,12000000.0,83916.08391608391,06700,Plaza Luis Cabrera,Ciudad de México
+"Santa Rosa (ciudad), Tijuana, Baja California",Primerobienesraces,32.5287257,-117.063962,2.0,2,2.0,88.0,3100000.0,35227.27272727273,22534,Jorullo,Baja California
+"Roma  Esquina Av. Chapultepec Venta Depto., Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4202476,-99.1763064,2.0,2,2.0,110.0,5800000.0,52727.27272727273,06700,Avenida Veracruz,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4058661,-99.1605993,2.0,2,2.0,93.0,6643287.0,71433.19354838709,06760,Linares,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4115632,-99.1605358,2.0,1,2.0,78.0,4643800.0,59535.89743589744,06760,Coahuila,Ciudad de México
+"Tlaxcala100, Roma Sur, Cuauhtémoc, Distrito Federal",Sitio Capital ,19.407535,-99.165698,2.0,1,2.0,100.0,4900000.0,49000.0,06760,Calle Taxco,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4221343,-99.15656,2.0,1,2.0,146.0,8400000.0,57534.24657534246,06700,Frontera,Ciudad de México
+"Queretaro, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4148447,-99.1602414,2.0,1,2.0,80.0,6450000.0,80625.0,06700,#229,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4115632,-99.1605358,2.0,1,2.0,70.0,4655643.0,66509.18571428572,06760,Coahuila,Ciudad de México
+"Av Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,1,2.0,85.0,4445000.0,52294.117647058825,06700,Tabasco,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Cattoribr,19.4240896,-99.1598208,2.0,1,2.0,123.0,6950000.0,56504.06504065041,06700,Avenida Chapultepec,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,75.0,4536860.0,60491.46666666667,06700,Calle de Durango,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4114483,-99.1611243,2.0,1,2.0,75.0,4369000.0,58253.333333333336,06760,Tonalá,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4046152,-99.1662218,2.0,2,2.0,188.0,8850000.0,47074.46808510638,06760,Tlacotalpan,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,1.0,41.0,3269750.0,79750.0,06700,Tabasco,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4058661,-99.1605993,2.0,1,2.0,93.0,5653289.0,60788.05376344086,06760,Linares,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,78.0,4714700.0,60444.8717948718,06700,Calle de Durango,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4114483,-99.1611243,2.0,1,2.0,86.0,4369000.0,50802.32558139535,06760,Tonalá,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,47.0,3715282.0,79048.55319148937,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,2,2.0,107.0,7040000.0,65794.39252336448,06760,Quintana Roo,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,2,2.0,270.0,14040000.0,52000.0,06700,Tabasco,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,76.0,4578160.0,60238.94736842105,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,75.0,4539220.0,60522.933333333334,06760,Quintana Roo,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4114483,-99.1611243,2.0,1,2.0,86.0,4369000.0,50802.32558139535,06760,Tonalá,Ciudad de México
+"Tonala, Roma Sur, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4076742,-99.1600444,2.0,1,2.0,64.0,4186666.0,65416.65625,06760,Tonalá,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4117924,-99.1651247,1.0,1,1.0,42.0,2890000.0,68809.52380952382,06700,Calle de Chiapas,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4127648,-99.1605674,1.0,1,1.0,90.0,5500000.0,61111.11111111111,06700,Calle de Chiapas,Ciudad de México
+"Hermosillo, Roma Sur, Cuauhtémoc, Distrito Federal",Remax Prosperity,19.4019,-99.1685,2.0,1,3.0,85.0,2900000.0,34117.64705882353,06760,Hermosillo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4098805,-99.1662582,2.0,2,2.0,195.0,8700000.0,44615.38461538462,06760,Campeche,Ciudad de México
+"Tonala, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,1.0,2,2.0,90.0,3812941.0,42366.01111111111,06760,Quintana Roo,Ciudad de México
+"Pirineos, Roma, Monterrey, Nuevo León",Diga Inmuebles,25.653993,-100.2950482,1.0,1,1.0,40.0,2186521.0,54663.025,64700,Pirineos,Nuevo León
+"Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4229547,-99.1652534,1.0,1,1.0,37.0,2878798.0,77805.35135135135,06700,Roma Norte,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4088805,-99.1672582,2.0,2,2.0,195.0,8700000.0,44615.38461538462,06760,Tlacotalpan,Ciudad de México
+"Sinaloa, Roma Sur, Cuauhtémoc, Distrito Federal",Organizacion Serrano,19.4203748,-99.168491,1.0,1,1.0,80.0,5500000.0,68750.0,06700,no 106,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Quality Habitat,19.4148155,-99.1603133,3.0,2,3.0,108.0,7715000.0,71435.18518518518,06700,#229,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Licmarthasbarandalicmar,19.4158401,-99.1596792,2.0,2,3.0,90.0,4495000.0,49944.444444444445,06700,Zacatecas,Ciudad de México
+"Chilpancingo, Roma Norte, Cuauhtémoc, Distrito Federal",Colokrte ,19.4047228,-99.1693665,1.0,1,2.0,53.0,3588410.0,67705.84905660378,06100,Avenida de los Insurgentes Sur,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,2,2.0,79.0,6105892.0,77289.77215189874,06760,Calle Bajío,Ciudad de México
+"Snn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,4.0,1,3.0,284.0,14700000.0,51760.56338028169,06700,Calle de Durango,Ciudad de México
+"Guanajuato 000, Roma Norte, Cuauhtémoc, Distrito Federal",Bernadette Carral K ,19.4168211,-99.1596475,2.0,2,2.0,143.0,12800000.0,89510.48951048951,06700,Plaza Luis Cabrera,Ciudad de México
+"Córdoba, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,2.0,63.0,4774000.0,75777.77777777778,06700,Tabasco,Ciudad de México
+"Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4147924,-99.1621247,1.0,1,1.0,42.0,2890000.0,68809.52380952382,06700,Tonalá,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4229547,-99.1652534,2.0,1,2.0,34.0,2793102.0,82150.05882352941,06700,Roma Norte,Ciudad de México
+"Frontera, Roma Norte, Cuauhtémoc, Distrito Federal",Cbmobikapremium,19.4181531,-99.1652014,3.0,1,2.0,165.0,8200000.0,49696.969696969696,06700,Tabasco,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,2,2.0,89.0,6360510.0,71466.40449438202,06700,Coahuila,Ciudad de México
+"Queretaro, Roma Norte, Cuauhtémoc, Distrito Federal",Casasydepas Com,19.4148447,-99.1602414,2.0,2,2.0,108.0,7667000.0,70990.74074074074,06700,#229,Ciudad de México
+"Baja California, Roma Sur, Cuauhtémoc, Distrito Federal",Inmuebles Hahn,19.4061693,-99.1602704,2.0,2,2.0,136.0,5150000.0,37867.64705882353,06760,Avenida Baja California,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4134483,-99.1591243,2.0,1,2.0,64.0,4369000.0,68265.625,06700,Calle de Chiapas,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,4.0,1,3.0,200.0,12900000.0,64500.0,06700,Calle de Durango,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,2,2.0,81.0,6084392.0,75115.95061728395,06760,Calle Bajío,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4182766,-99.166438,2.0,2,2.0,98.0,12146070.0,123939.48979591836,06700,Colima,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4086981,-99.1669069,2.0,2,2.0,117.0,7250000.0,61965.81196581197,06760,Tlacotalpan,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,1,2.0,66.0,3999900.0,60604.545454545456,06760,Calle Bajío,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,1,2.0,88.0,5299900.0,60226.13636363636,06760,Calle Bajío,Ciudad de México
+"Huatabampo, Roma Sur, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4073996,-99.1571281,2.0,1,2.0,100.0,5519000.0,55190.0,06760,Toluca,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4182766,-99.166438,2.0,2,2.0,101.0,7257350.0,71854.9504950495,06700,Colima,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,1,2.0,78.0,4710600.0,60392.307692307695,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,1,2.0,75.0,4714700.0,62862.666666666664,06700,Coahuila,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Cattoribr,19.4240896,-99.1598208,2.0,1,2.0,86.0,5340000.0,62093.023255813954,06700,Avenida Chapultepec,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,51.0,4976000.0,97568.6274509804,06700,Calle de Durango,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,1,2.0,67.0,4049900.0,60446.26865671642,06760,Calle Bajío,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,1,2.0,68.0,4149900.0,61027.94117647059,06760,Calle Bajío,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,1,2.0,122.0,8400000.0,68852.45901639345,06700,Calle de Durango,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,2,2.0,88.0,6380520.0,72505.90909090909,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,2,2.0,100.0,8026360.0,80263.6,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,1,2.0,76.0,6661750.0,87654.6052631579,06700,Coahuila,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4038108,-99.1624633,2.0,1,2.0,67.0,4805142.0,71718.53731343284,06760,Calle Bajío,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4114483,-99.1611243,2.0,1,2.0,64.0,4369000.0,68265.625,06760,Tonalá,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4030527,-99.1678785,2.0,2,3.0,99.0,10200000.0,103030.30303030302,06760,Calle Bajío,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4030527,-99.1678785,2.0,2,3.0,111.0,9880000.0,89009.00900900901,06760,Calle Bajío,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4030527,-99.1678785,2.0,2,3.0,113.0,11050000.0,97787.61061946902,06760,Calle Bajío,Ciudad de México
+"Calle Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4030527,-99.1678785,2.0,2,3.0,111.0,9670000.0,87117.11711711712,06760,Calle Bajío,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Neximo,19.4029964,-99.1683906,1.0,1,1.0,66.0,3771278.0,57140.57575757576,06760,Calle Chilpancingo,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,1,2.0,93.0,6306550.0,67812.36559139784,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115152,-99.1623461,2.0,2,2.0,86.0,5845980.0,67976.51162790698,06700,Coahuila,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4194601,-99.1581372,2.0,2,2.0,204.0,17330000.0,84950.98039215687,06700,Tabasco,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4217314,-99.160594,1.0,1,3.0,156.0,5900000.0,37820.51282051282,06700,Cerrada Orizaba,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4068805,-99.1692582,2.0,2,2.0,198.0,8952615.0,45215.22727272727,06100,165,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Expmexico Realtors,19.4195256,-99.162549,3.0,1,3.0,284.0,12900000.0,45422.535211267605,06700,Calle de Durango,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4195256,-99.162549,1.0,1,1.0,69.0,5000000.0,72463.76811594203,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Sata7784633,19.4093009,-99.1574399,2.0,2,2.0,185.0,6976349.0,37709.994594594595,06760,Toluca,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rematadascom,19.4168211,-99.1596475,2.0,1,2.0,83.0,1200000.0,14457.831325301206,06700,Plaza Luis Cabrera,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Bernadette Carral K ,19.4168211,-99.1596475,2.0,2,2.0,187.0,12000000.0,64171.1229946524,06700,Plaza Luis Cabrera,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4026152,-99.1682218,2.0,2,2.0,134.0,7650000.0,57089.55223880597,06760,Tuxpan,Ciudad de México
+"Medellin, Roma Norte, Cuauhtémoc, Distrito Federal",Inmuebles Hahn,19.4112559,-99.1642982,2.0,1,2.0,68.0,2250000.0,33088.23529411765,06700,Medellín,Ciudad de México
+"Durango, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Plus,19.4202688,-99.1642694,2.0,1,2.0,100.0,4930000.0,49300.0,06700,Calle de Durango,Ciudad de México
+"Durando193, Roma Norte, Cuauhtémoc, Distrito Federal",Hc Hogar Bienes Raices,19.420087,-99.167044,1.0,1,1.0,36.0,3848548.0,106904.11111111112,06700,Calle de Durango,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4046152,-99.1662218,2.0,2,2.0,134.0,7650000.0,57089.55223880597,06760,Tlacotalpan,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Sata7784633,19.4083009,-99.1584399,2.0,2,2.0,93.0,5653287.0,60788.032258064515,06760,Huatabampo,Ciudad de México
+"Roma Nortesn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.417364,-99.159453,4.0,1,3.0,284.0,12900000.0,45422.535211267605,06700,Avenida Álvaro Obregón,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4194601,-99.1581372,2.0,2,2.0,149.0,12660000.0,84966.44295302013,06700,Tabasco,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4194601,-99.1581372,2.0,2,2.0,185.0,14345000.0,77540.54054054055,06700,Tabasco,Ciudad de México
+"Bajio, Roma Sur, Cuauhtémoc, Distrito Federal",Luxence,19.4037937,-99.1631623,2.0,1,2.0,111.0,6586413.0,59337.05405405405,06760,Calle Bajío,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Sata7784633,19.4088661,-99.1575993,3.0,2,3.0,140.0,8706563.0,62189.735714285714,06760,Toluca,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4058504,-99.1621697,2.0,2,2.0,103.0,6296000.0,61126.21359223301,06760,Torreón,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,70.0,4482780.0,64039.71428571428,06700,Calle de Durango,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,3.0,1,3.0,86.0,4944054.0,57489.0,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,37.0,3848548.0,104014.8108108108,06700,Calle de Durango,Ciudad de México
+"Torreón, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4056186,-99.1618533,2.0,2,3.0,115.0,8229770.0,71563.21739130435,06760,Torreón,Ciudad de México
+"Av, Conocida, Roma, Monterrey, Nuevo León",Coldwellbanker Marimar,25.6549213,-100.2927616,3.0,2,3.0,200.0,6900000.0,34500.0,64700,Avenida Eugenio Garza Sada,Nuevo León
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4054217,-99.1602247,2.0,2,2.0,185.0,6976349.0,37709.994594594595,06760,Linares,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4052563,-99.1662026,2.0,2,2.0,106.0,7040000.0,66415.09433962264,06760,Tlacotalpan,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,43.0,4300000.0,100000.0,06700,Calle de Durango,Ciudad de México
+"Torreón, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4056186,-99.1618533,2.0,2,3.0,134.0,9326512.0,69600.83582089552,06760,Torreón,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4088805,-99.1672582,2.0,2,2.0,198.0,8952615.0,45215.22727272727,06760,Tlacotalpan,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Sata7784633,19.4053009,-99.1614399,2.0,2,2.0,179.0,6643287.0,37113.33519553073,06760,Tehuantepec,Ciudad de México
+"Av. Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Luxence,19.4218675,-99.1636483,1.0,1,1.0,49.0,4062500.0,82908.16326530612,06700,Avenida Insurgentes Sur,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,99.0,6296000.0,63595.9595959596,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,36.0,4421000.0,122805.55555555556,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,83.0,5363485.0,64620.30120481928,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,23.0,1,2.0,91.0,7874000.0,86527.47252747252,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,43.0,4472000.0,104000.0,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,4.0,1,3.0,121.0,8725800.0,72114.04958677686,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,4.0,1,3.0,163.0,8725000.0,53527.60736196319,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,140.0,7792000.0,55657.142857142855,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,142.0,7676000.0,54056.33802816901,06760,Quintana Roo,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4054217,-99.1602247,3.0,2,3.0,140.0,8706563.0,62189.735714285714,06760,Linares,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4159657,-99.163205,3.0,2,3.0,157.0,10100000.0,64331.210191082806,06700,198,Ciudad de México
+"Av Chapultepec 322, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,2.0,1,2.0,85.0,4695000.0,55235.294117647056,06700,Tabasco,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,36.0,4442000.0,123388.88888888888,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,91.0,9689000.0,106472.52747252748,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,4.0,1,3.0,135.0,8434800.0,62480.0,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,109.0,7981000.0,73220.18348623853,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,51.0,5041000.0,98843.13725490196,06700,Calle de Durango,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Safe Rent,19.4119107,-99.159609,1.0,1,1.0,40.0,1800000.0,45000.0,06700,Eje 2 Sur,Ciudad de México
+"Benito Juárez, Distrito Federal",Consultores Patrimoniales,19.3679307,-99.1741894,2.0,1,2.0,75.0,840145.0,11201.933333333332,03104,Eje Vial 8 Sur,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4180537,-99.1585252,2.0,1,3.0,70.0,902000.0,12885.714285714286,06700,Córdoba,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.424552,-99.1583315,2.0,1,2.0,70.0,839652.0,11995.028571428573,06700,Roma Norte,Ciudad de México
+"Hamburgo, Roma Norte, Cuauhtémoc, Distrito Federal",Barragan Br,19.4293459,-99.1585585,1.0,1,1.0,50.0,2400000.0,48000.0,06600,Hamburgo,Ciudad de México
+"Puebla 258, Roma Norte, Cuauhtémoc, Distrito Federal",Blaxell 2,19.4213628,-99.1679593,3.0,1,3.0,98.0,4703000.0,47989.795918367345,06700,Ciudad de México,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4030089,-99.1686461,2.0,1,2.0,104.0,5350000.0,51442.307692307695,06760,Eje Vial 4 Sur,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4030089,-99.1686461,2.0,1,2.0,90.0,4850000.0,53888.88888888889,06760,Eje Vial 4 Sur,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Veronica Porraz,19.4125049,-99.1560507,1.0,1,1.0,43.0,3429250.0,79750.0,06700,Coahuila,Ciudad de México
+"Puebla 258, Roma Norte, Cuauhtémoc, Distrito Federal",Blaxell 2,19.4213628,-99.1679593,3.0,1,3.0,103.0,4943000.0,47990.29126213592,06700,Ciudad de México,Ciudad de México
+"Tlacotalpan127, Roma Sur, Cuauhtémoc, Distrito Federal",Hc Hogar Bienes Raices,19.402662,-99.16593,1.0,1,3.0,62.0,6690000.0,107903.2258064516,06760,Ciudad de México,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4168211,-99.1596475,2.0,2,2.0,104.0,9350000.0,89903.84615384616,06700,Plaza Luis Cabrera,Ciudad de México
+"Roma, Monterrey, Nuevo León",Via Inmuebles,25.654287,-100.297745,1.0,1,1.0,57.0,3500000.0,61403.508771929824,64700,Palestina,Nuevo León
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,2.0,193.0,14382000.0,74518.13471502591,06760,Quintana Roo,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112713,-99.1633655,1.0,1,2.0,182.0,2350000.0,12912.087912087913,06700,Coahuila,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4168211,-99.1596475,3.0,2,3.0,195.0,10750000.0,55128.205128205125,06700,Plaza Luis Cabrera,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Sspropiedades,19.4054217,-99.1602247,2.0,1,2.0,93.0,5653257.0,60787.70967741936,06760,Linares,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Espaciosurbanosmx,19.4168211,-99.1596475,2.0,2,2.0,92.0,5998135.0,65197.11956521739,06700,Plaza Luis Cabrera,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Plus,19.4157,-99.1649,3.0,2,3.0,195.0,9840000.0,50461.53846153846,06700,Guanajuato,Ciudad de México
+"Chilpancingo, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4030089,-99.1686461,2.0,1,2.0,176.0,9950000.0,56534.09090909091,06760,Eje Vial 4 Sur,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4119974,-99.1590706,2.0,1,2.0,64.0,4070000.0,63593.75,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4124711,-99.1562223,2.0,1,2.0,76.0,4210000.0,55394.73684210526,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,2.0,1,2.0,126.0,6996018.0,55523.95238095238,06700,Calle de Durango,Ciudad de México
+"Zacatecas, Roma Sur, Cuauhtémoc, Distrito Federal",Heyserenta Com,19.4170429,-99.1546255,1.0,1,1.0,64.0,4100000.0,64062.5,06700,Zacatecas,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,40.0,4670000.0,116750.0,06700,Calle de Durango,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4119974,-99.1590706,1.0,1,1.0,41.0,3150850.0,76850.0,06700,Coahuila,Ciudad de México
+"Colima 49 Interior 301, Roma Sur, Cuauhtémoc, Distrito Federal",Century21 Tega,19.4208852,-99.1557502,2.0,2,2.0,130.0,9333000.0,71792.30769230769,06700,Colima,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Inmobiliaria Sp,19.3605334,-99.2267067,2.0,2,3.0,113.0,9000000.0,79646.01769911505,01619,José Gálvez Moya,Ciudad de México
+"Roma Privada, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6403657,-100.2895546,2.0,1,3.0,113.0,4830838.0,42750.77876106195,64740,Lombardo Toledano,Nuevo León
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4168211,-99.1596475,2.0,2,2.0,204.0,9590000.0,47009.80392156863,06700,Plaza Luis Cabrera,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,2.0,1,2.0,66.0,6853000.0,103833.33333333331,06700,Coahuila,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,92.0,5452850.0,59270.108695652176,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,136.0,12901458.0,94863.66176470587,06700,Calle de Durango,Ciudad de México
+"Roma, Monterrey, Nuevo León",Grand Metrópoli,25.6552625,-100.2968762,2.0,1,3.0,140.0,4000000.0,28571.428571428572,64700,Palestina,Nuevo León
+"Roma, Monterrey, Nuevo León",Alur Bienes Raíces,25.6542625,-100.2978762,2.0,2,3.0,123.0,5327908.0,43316.32520325203,64700,Palestina,Nuevo León
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Luxence,19.4123937,-99.1562314,1.0,1,2.0,78.0,4631000.0,59371.794871794875,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,2.0,1,2.0,76.0,5060000.0,66578.94736842105,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,1.0,1,1.0,43.0,3429250.0,79750.0,06700,Coahuila,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Morris Lan,19.415896,-99.1593996,3.0,2,3.0,162.0,9950000.0,61419.753086419754,06700,Zacatecas,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,2,2.0,89.0,6330120.0,71124.94382022473,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,2,2.0,83.0,5363485.0,64620.30120481928,06760,Coahuila,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,140.0,11675527.0,83396.62142857142,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,4.0,1,3.0,150.0,10750000.0,71666.66666666667,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,92.0,5845980.0,63543.260869565216,06700,Calle de Durango,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Circulobienesraices,19.4119974,-99.1590706,2.0,1,2.0,76.0,4980000.0,65526.31578947369,06700,Coahuila,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Remax Plus,19.4157,-99.1649,2.0,2,2.0,194.0,9350000.0,48195.87628865979,06700,Guanajuato,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Inmobiliaria Zona 04,19.4123937,-99.1562314,1.0,1,1.0,43.0,3635005.0,84535.0,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,3.0,2,2.0,194.0,9350000.0,48195.87628865979,06700,Calle de Durango,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,2.0,1,2.0,63.0,6600000.0,104761.90476190476,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,2.0,1,2.0,65.0,4378000.0,67353.84615384616,06700,Coahuila,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4123937,-99.1562314,2.0,1,2.0,59.0,4389000.0,74389.83050847458,06700,Coahuila,Ciudad de México
+"Hutabampo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4071173,-99.1572477,2.0,2,2.0,98.0,6079500.0,62035.71428571428,06760,30,Ciudad de México
+"Hutabampo, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4071173,-99.1572477,2.0,2,2.0,97.0,6384000.0,65814.43298969071,06760,30,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,2,2.0,89.0,6792390.0,76318.98876404495,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,2,2.0,84.0,6218895.0,74034.46428571429,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,2,2.0,96.0,7591980.0,79083.125,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,1,2.0,71.0,4270200.0,60143.66197183099,06760,Coahuila,Ciudad de México
+"Coahuila, Roma Sur, Cuauhtémoc, Distrito Federal",Houm,19.4115652,-99.1605521,2.0,1,2.0,71.0,4303135.0,60607.535211267605,06760,Coahuila,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,2.0,139.0,11502061.0,82748.64028776978,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,87.0,4783584.0,54983.72413793104,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,122.0,7639585.0,62619.54918032787,06700,Calle de Durango,Ciudad de México
+"San Luis Potosí  113, Roma Norte, Cuauhtémoc, Distrito Federal",Deborahlavat,19.4141843,-99.1597255,3.0,2,2.0,158.56,11582200.0,73046.16548940464,06700,Eje 2 Sur,Ciudad de México
+"Puebla 258, Roma Norte, Cuauhtémoc, Distrito Federal",Blaxell 2,19.4213628,-99.1679593,3.0,1,3.0,103.0,4943000.0,47990.29126213592,06700,Ciudad de México,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,1.0,1,1.0,57.0,5800000.0,101754.38596491228,06700,Calle de Durango,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,2.0,2,2.0,117.0,7855960.0,67144.95726495727,06700,Calle de Durango,Ciudad de México
+"Salamanca  11, Roma Norte, Cuauhtémoc, Distrito Federal",Profesionales Inmobiliariosmx,19.4214358,-99.1704172,1.0,1,1.0,42.0,3273000.0,77928.57142857143,06700,Calle Salamanca,Ciudad de México
+"San Luis Potosi 113, Roma Norte, Cuauhtémoc, Distrito Federal",Deborahlavat,19.4141843,-99.1597255,2.0,1,2.0,100.0,6879300.0,68793.0,06700,Eje 2 Sur,Ciudad de México
+"San Luis Potosí  113, Roma Norte, Cuauhtémoc, Distrito Federal",Deborahlavat,19.4141843,-99.1597255,2.0,2,2.0,152.39,10174465.0,66765.96233348646,06700,Eje 2 Sur,Ciudad de México
+"Guanajuato  240, Roma Norte, Cuauhtémoc, Distrito Federal",Mingobienesraices,19.4156973,-99.1649402,2.0,2,3.0,204.0,9590000.0,47009.80392156863,06700,Guanajuato,Ciudad de México
+"Nayarit 0, Roma Sur, Cuauhtémoc, Distrito Federal",Highend Mexico,19.4098231,-99.162138,2.0,1,2.0,78.0,4700000.0,60256.41025641026,06760,Eje Vial Eje 2 Poniente (Avenida Monterrey,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,1.0,1,2.0,76.42,4774000.0,62470.557445694845,06700,Calle de Durango,Ciudad de México
+"Roma Sur 0, Roma Sur, Cuauhtémoc, Distrito Federal",Pireal Estate,19.405299,-99.1649891,2.0,2,2.0,100.0,11720000.0,117200.0,06760,Quintana Roo,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Urp Propiedades,19.4167969,-99.1555784,2.0,1,2.0,95.0,4066000.0,42800.0,06700,Zacatecas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4134711,-99.1552223,2.0,1,2.0,43.0,2870000.0,66744.18604651163,06700,Calle de Chiapas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Qia Inmobiliaria,19.436631,-99.15081,4.0,2,3.0,193.0,14382000.0,74518.13471502591,06030,Terán,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.424552,-99.1583315,2.0,1,2.0,70.0,839652.0,11995.028571428573,06700,Roma Norte,Ciudad de México
+"Medellin340, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4044416,-99.1626881,2.0,1,2.0,150.0,920000.0,6133.333333333333,06760,Eje Vial 3 Poniente,Ciudad de México
+"Monterrey, Roma Norte, Cuauhtémoc, Distrito Federal",Bernadette Carral K ,19.412346,-99.1627985,1.0,1,1.0,72.0,5200000.0,72222.22222222222,06700,Monterrey,Ciudad de México
+"Av. Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4218675,-99.1636483,1.0,1,1.0,38.0,3135000.0,82500.0,06700,Avenida Insurgentes Sur,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4110273,-99.160073,2.0,1,3.0,122.0,7040000.0,57704.91803278688,06760,León de Los Aldamas,Ciudad de México
+"Frontera 137, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Movisa,19.418011,-99.1557064,2.0,1,2.0,103.0,6732700.0,65366.01941747573,06700,Frontera,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4195256,-99.162549,2.0,1,2.0,152.0,6835000.0,44967.10526315789,06700,Calle de Durango,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Gruposdiazyasociados,19.4084453,-99.1664688,2.0,1,2.0,145.0,8558032.0,59020.910344827586,06760,Aguascalientes,Ciudad de México
+"Av. Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4218675,-99.1636483,1.0,1,1.0,49.0,4102500.0,83724.48979591837,06700,Avenida Insurgentes Sur,Ciudad de México
+"Roma Sur 0, Roma Sur, Cuauhtémoc, Distrito Federal",Pireal Estate,19.405299,-99.1649891,3.0,2,3.0,92.0,11148000.0,121173.91304347826,06760,Quintana Roo,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4022256,-99.165227,2.0,1,2.0,143.0,11317200.0,79141.25874125875,06760,Tlacotalpan,Ciudad de México
+"Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.404209,-99.1610301,2.0,2,3.0,111.0,6744923.0,60765.07207207207,06760,Calle Bajío,Ciudad de México
+"Tabasco, Roma Norte, Cuauhtémoc, Distrito Federal",Cravioto Inmobiliaria,19.4188488,-99.1613324,2.0,1,2.0,153.0,12660000.0,82745.09803921569,06700,Tabasco,Ciudad de México
+"Alejandria, Roma, Monterrey, Nuevo León",Century21 Kamys,25.6684802,-100.2051607,2.0,1,2.0,40.0,2170000.0,54250.0,67198,Roma,Nuevo León
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwell Banker Vive,19.4160311,-99.1632189,3.0,2,3.0,150.0,11200000.0,74666.66666666667,06700,Guanajuato,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4154711,-99.1532223,2.0,1,2.0,63.0,3820000.0,60634.92063492064,06720,Calle Doctor Lucio,Ciudad de México
+"Insurgentes, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4217349,-99.1637208,1.0,1,1.0,38.0,3155000.0,83026.31578947368,06700,Sinaloa,Ciudad de México
+"Puebla, Roma Norte, Cuauhtémoc, Distrito Federal",Licmarthasbarandalicmar,19.4206466,-99.170547,2.0,2,2.0,108.0,9010885.0,83434.12037037036,06700,Puebla,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4134711,-99.1552223,2.0,1,2.0,43.0,3180000.0,73953.48837209302,06700,Calle de Chiapas,Ciudad de México
+"Querétaro, Roma Sur, Cuauhtémoc, Distrito Federal",Cattoribr,19.4146914,-99.1606225,2.0,2,3.0,109.0,7932730.0,72777.33944954128,06700,Calle Querétaro,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4130341,-99.1614773,2.0,2,2.0,100.0,11720767.0,117207.67,06700,Tonalá,Ciudad de México
+"Departamentos En Pre Venta Roma Monterrey Nl, Roma, Monterrey, Nuevo León",Mundo Raiz,25.6542625,-100.2978762,1.0,1,1.0,57.0,3500000.0,61403.508771929824,64700,Palestina,Nuevo León
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,3.0,117.0,6388236.0,54600.307692307695,06760,Quintana Roo,Ciudad de México
+"Zacatecas, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwellbankercity,19.4181531,-99.1652014,2.0,2,3.0,140.0,10500000.0,75000.0,06700,Tabasco,Ciudad de México
+"Querétaro, Roma Sur, Cuauhtémoc, Distrito Federal",Cattoribr,19.4146914,-99.1606225,2.0,2,3.0,114.0,8165300.0,71625.43859649122,06700,Calle Querétaro,Ciudad de México
+"Querétaro, Roma Sur, Cuauhtémoc, Distrito Federal",Cattoribr,19.4146914,-99.1606225,2.0,2,3.0,191.0,13471140.0,70529.52879581152,06700,Calle Querétaro,Ciudad de México
+"Huatabampo, Roma Sur, Cuauhtémoc, Distrito Federal",Remax Servicios Inmobiliarios,19.4073996,-99.1571281,2.0,2,3.0,127.0,6958000.0,54787.40157480315,06760,Toluca,Ciudad de México
+"Roma, Monterrey, Nuevo León",Alur Bienes Raíces,25.6542625,-100.2978762,2.0,1,3.0,112.0,4745388.0,42369.53571428572,64700,Palestina,Nuevo León
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,3.0,2,3.0,195.0,13500000.0,69230.76923076923,06700,Calle de Durango,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Rematadascom,19.4116332,-99.1610265,2.0,1,2.0,100.0,1759000.0,17590.0,06700,Colima,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,41.0,3269750.0,79750.0,06700,Calle de Durango,Ciudad de México
+"Coauhuila, Roma Norte, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4124711,-99.1562223,2.0,1,2.0,132.0,6853000.0,51916.666666666664,06700,Coahuila,Ciudad de México
+"Roma Sur, Roma, Monterrey, Nuevo León",Coldwellbanker Marimar,25.6461662,-100.2985775,1.0,1,2.0,95.0,5300000.0,55789.47368421053,64700,María Montessori,Nuevo León
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4356338,-99.1495107,1.0,2,3.0,85.0,1605400.0,18887.058823529413,06030,Paseo de La Reforma Norte,Ciudad de México
+"Diagonal, Roma Sur, Monterrey, Nuevo León",Coldwellbanker Marimar,25.6568618,-100.2951617,1.0,1,1.0,57.0,3500000.0,61403.508771929824,64700,Diagonal,Nuevo León
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4104711,-99.1582223,2.0,1,2.0,65.0,3940000.0,60615.38461538462,06760,Ciudad de México,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4144711,-99.1542223,2.0,1,2.0,76.0,4600000.0,60526.31578947369,06720,Avenida Cuauhtémoc,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4134711,-99.1552223,2.0,1,2.0,132.0,6230000.0,47196.969696969696,06700,Calle de Chiapas,Ciudad de México
+"Venta De Departamento En Colonia Roma, Roma Sur, Cuauhtémoc, Distrito Federal",Skgasesoresinmobiliarios,19.405973,-99.1663847,2.0,1,2.0,96.0,4720000.0,49166.666666666664,06760,Roma Sur,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4130341,-99.1614773,2.0,2,2.0,193.0,14148523.0,73308.40932642487,06700,Tonalá,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4187185,-99.1548729,2.0,1,2.0,80.0,839652.0,10495.65,06700,Chihuahua,Ciudad de México
+"Colima, Roma Norte, Cuauhtémoc, Distrito Federal",Sara Goldhaber,19.4189983,-99.1640265,2.0,2,2.0,111.0,7250000.0,65315.31531531532,06700,Colima,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,54.0,4535000.0,83981.48148148147,06700,Calle de Durango,Ciudad de México
+"Tonalá, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4130341,-99.1614773,2.0,2,2.0,112.0,13333717.0,119051.04464285714,06700,Tonalá,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4195256,-99.162549,1.0,1,1.0,43.0,3370000.0,78372.09302325582,06700,Calle de Durango,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4159657,-99.163205,3.0,2,3.0,184.0,11200000.0,60869.565217391304,06700,198,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,3.0,118.0,6641481.0,56283.73728813559,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,69.0,5692500.0,82500.0,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,62.0,4279000.0,69016.12903225806,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,66.0,6853000.0,103833.33333333331,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,76.0,5060000.0,66578.94736842105,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,63.0,4202000.0,66698.41269841269,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,43.0,3429250.0,79750.0,06700,Calle de Durango,Ciudad de México
+"Guanajuato, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwell Banker Vive,19.4163583,-99.1633543,3.0,2,3.0,153.0,10100000.0,66013.07189542483,06700,Guanajuato,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,2,3.0,157.0,9880000.0,62929.93630573248,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.405299,-99.1649891,2.0,2,3.0,111.0,6426000.0,57891.89189189189,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,1.0,38.0,4122500.0,108486.84210526316,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,63.0,4246000.0,67396.8253968254,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,3.0,1,3.0,117.0,6594096.0,56359.794871794875,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,4.0,1,3.0,117.0,8856256.0,75694.49572649572,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,1.0,1,2.0,59.0,4290000.0,72711.86440677966,06700,Calle de Durango,Ciudad de México
+"Bajío, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.404209,-99.1610301,2.0,2,3.0,222.0,10429375.0,46979.166666666664,06760,Calle Bajío,Ciudad de México
+"Chiapas, Roma Norte, Cuauhtémoc, Distrito Federal",Urp Propiedades,19.4120407,-99.1634431,3.0,1,3.0,154.0,14000000.0,90909.09090909093,06700,Calle de Chiapas,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4185174,-99.1613449,2.0,1,3.0,137.0,3300000.0,24087.59124087591,06700,Jalapa,Ciudad de México
+"Coahuila159, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Raiz Inmobiliario,19.411271,-99.163366,2.0,1,2.0,90.0,1800000.0,20000.0,06700,Coahuila,Ciudad de México
+"Pomona45, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Raiz Inmobiliario,19.421126,-99.162892,2.0,1,2.0,75.0,989670.0,13195.6,06700,Pomona,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4184178,-99.1707028,2.0,1,2.0,117.0,2300000.0,19658.119658119656,06700,Cerrada Salamanca,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4138234,-99.1655017,3.0,1,3.0,135.0,9750000.0,72222.22222222222,06700,Avenida Insurgentes Sur,Ciudad de México
+"Roma Sn, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.418153,-99.1652014,1.0,1,2.0,85.0,4200000.0,49411.76470588235,06700,Tabasco,Ciudad de México
+"Cordoba48, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Raiz Inmobiliario,19.422147,-99.159086,2.0,1,3.0,100.0,1750667.0,17506.67,06700,Córdoba,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Nouhouse,19.421917,-99.1693212,1.0,1,1.0,37.13,2792170.0,75199.83840560193,06700,Avenida Chapultepec,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,1105470.0,12283.0,06700,Coahuila,Ciudad de México
+"Concepción Beistegui, Del Valle Centro, Benito Juárez, Distrito Federal",Luxence,19.3889011,-99.1638138,3.0,2,3.0,170.0,13354550.0,78556.17647058824,03100,Calle Concepción Beistegui,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4175758,-99.1545772,2.0,1,2.0,90.0,2840000.0,31555.555555555555,06700,Avenida Cuauhtémoc,Ciudad de México
+"Roma Sur 0, Roma Sur, Cuauhtémoc, Distrito Federal",Pireal Estate,19.405299,-99.1649891,2.0,2,2.0,140.0,5653287.0,40380.62142857143,06760,Quintana Roo,Ciudad de México
+"Medellín210, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Raiz Inmobiliario,19.411479,-99.164319,2.0,1,2.0,68.0,1300259.0,19121.45588235294,06700,Eje Vial 3 Poniente,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4156986,-99.1581424,1.0,1,1.0,56.0,3840000.0,68571.42857142857,06700,Córdoba,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4193691,-99.1743199,2.0,2,3.0,99.0,5200000.0,52525.25252525252,06700,Acapulco,Ciudad de México
+"Hermosillo9, Roma Norte, Cuauhtémoc, Distrito Federal",Grupo Raiz Inmobiliario,19.401785,-99.168802,1.0,1,2.0,70.0,1151648.0,16452.114285714284,06760,Hermosillo,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,2840000.0,31555.555555555555,06700,Coahuila,Ciudad de México
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Nouhouse,19.4218158,-99.1693856,1.0,1,1.0,39.65,3070859.0,77449.1551071879,06700,Avenida Chapultepec,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,1105469.0,12282.988888888887,06700,Coahuila,Ciudad de México
+"Av. Chapultepec246, Roma Norte, Cuauhtémoc, Distrito Federal",Círculo Inmobiliario,19.423963,-99.160967,2.0,1,3.0,65.0,1277348.0,19651.507692307692,06700,Avenida Chapultepec,Ciudad de México
+"Roma, Monterrey, Nuevo León",Melo Bueno Bienes Raíces,25.6542625,-100.2978762,3.0,3,3.0,196.0,5700000.0,29081.632653061224,64700,Palestina,Nuevo León
+"Av. Chapultepec, Roma Norte, Cuauhtémoc, Distrito Federal",Nouhouse,19.4218968,-99.1693856,1.0,1,2.0,70.29,4804764.0,68356.29534784464,06700,Avenida Chapultepec,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4114263,-99.1643063,1.0,1,2.0,56.0,2700000.0,48214.28571428572,06700,Medellín,Ciudad de México
+"Aguascalientes 9, Roma Sur, Cuauhtémoc, Distrito Federal",Profesionales Inmobiliariosmx,19.4096166,-99.1609976,2.0,1,2.0,120.0,8217000.0,68475.0,06760,Aguascalientes,Ciudad de México
+"Roma, Monterrey, Nuevo León",Alejandro Torres Mange,25.6542625,-100.2978762,2.0,2,2.0,101.0,3550000.0,35148.514851485146,64700,Palestina,Nuevo León
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4159702,-99.1576866,1.0,1,2.0,74.0,4812500.0,65033.78378378379,06700,Zacatecas,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.415475,-99.1589334,1.0,1,1.0,64.0,4250000.0,66406.25,06700,154,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,1105469.0,12282.988888888887,06700,Coahuila,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,98.0,4455575.0,45465.051020408166,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,2.0,141.0,12839444.0,91059.8865248227,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,213.0,8250000.0,38732.394366197186,06700,Calle de Durango,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,97.0,4624150.0,47671.64948453608,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,158.0,13322205.0,84317.75316455697,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,168.0,10592361.0,63049.767857142855,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,161.0,10048500.0,62413.04347826087,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,2.0,1,2.0,134.0,12203137.0,91068.1865671642,06700,Calle de Durango,Ciudad de México
+"Avenida Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4218675,-99.1636483,1.0,1,1.0,63.0,5197500.0,82500.0,06700,Avenida Insurgentes Sur,Ciudad de México
+"Avenida Insurgentes Sur, Roma Norte, Cuauhtémoc, Distrito Federal",Houm,19.4218675,-99.1636483,1.0,1,1.0,56.0,4496000.0,80285.71428571429,06700,Avenida Insurgentes Sur,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,2.0,96.0,4157440.0,43306.666666666664,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,101.0,4548300.0,45032.67326732673,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,101.0,4548304.0,45032.71287128713,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,101.0,4568300.0,45230.69306930693,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,2.0,91.0,4061500.0,44631.868131868134,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Viaducto Miguel  Aleman, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4030731,-99.159292,2.0,1,3.0,98.0,4415575.0,45056.88775510204,03000,Viaducto Presidente Miguel Alemán Valdés,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,130.0,9305538.0,71581.06153846154,06700,Calle de Durango,Ciudad de México
+"Snsn, Roma Norte, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.419526,-99.162549,3.0,1,3.0,153.0,10249470.0,66990.0,06700,Calle de Durango,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4054217,-99.1602247,2.0,2,2.0,93.0,5653287.0,60788.032258064515,06760,Linares,Ciudad de México
+"Roma, Monterrey, Nuevo León",Gr Inmuebles,25.656862,-100.295856,2.0,1,2.0,95.0,5580000.0,58736.84210526316,64700,Avenida Eugenio Garza Sada Sur,Nuevo León
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.402662,-99.1659298,2.0,1,2.0,91.0,4900000.0,53846.15384615384,06760,Ciudad de México,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,1.0,1,1.0,65.0,4100750.0,63088.46153846154,06700,Calle de Durango,Ciudad de México
+"Valladolid34, Roma Norte, Cuauhtémoc, Distrito Federal",Glb Patrimonial,19.42105,-99.168266,2.0,1,3.0,113.0,958789.0,8484.858407079646,06700,Valladolid,Ciudad de México
+"Coahuila159, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4112713,-99.1633655,2.0,1,2.0,90.0,1800000.0,20000.0,06700,Coahuila,Ciudad de México
+"Coahuila 28, Roma Norte, Cuauhtémoc, Distrito Federal",Century21 Reward,19.4123937,-99.1562314,1.0,1,1.0,41.0,2972500.0,72500.0,06700,Coahuila,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Airnetwork Asesores Inmob,19.4195256,-99.162549,1.0,1,1.0,39.0,3135000.0,80384.61538461539,06700,Calle de Durango,Ciudad de México
+"Querétaro238, Roma Norte, Cuauhtémoc, Distrito Federal",Glb Patrimonial,19.41368,-99.1654,1.0,1,3.0,89.0,1394590.0,15669.550561797752,06700,Calle Querétaro,Ciudad de México
+"Coahuila159, Roma Norte, Cuauhtémoc, Distrito Federal",Glb Patrimonial,19.411271,-99.163366,2.0,1,3.0,90.0,839240.0,9324.888888888889,06700,Coahuila,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Morakalli Inmobiliaria,19.4054217,-99.1602247,2.0,2,2.0,185.0,6976349.0,37709.994594594595,06760,Linares,Ciudad de México
+"Cuauhtemoc, Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4114263,-99.1643063,2.0,1,3.0,85.0,3155000.0,37117.64705882353,06700,Medellín,Ciudad de México
+"Roma Sur, Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,2,2.0,150.0,10400000.0,69333.33333333333,06760,Quintana Roo,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,1105470.0,12283.0,06700,Coahuila,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Organizacion Serrano,19.4148447,-99.1602414,3.0,2,3.0,160.0,8781000.0,54881.25,06700,#229,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4059284,-99.16506,2.0,2,3.0,111.0,6870000.0,61891.89189189189,06760,Calle Manzanillo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4059284,-99.16506,2.0,2,3.0,222.0,11550000.0,52027.02702702703,06760,Calle Manzanillo,Ciudad de México
+"Pomona45, Roma Norte, Cuauhtémoc, Distrito Federal",Círculo Inmobiliario,19.421126,-99.162892,2.0,1,2.0,75.0,989670.0,13195.6,06700,Pomona,Ciudad de México
+"Cordoba48, Roma Norte, Cuauhtémoc, Distrito Federal",Círculo Inmobiliario,19.422147,-99.159086,2.0,1,3.0,100.0,1750667.0,17506.67,06700,Córdoba,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4356338,-99.1495107,2.0,1,2.0,65.0,2120000.0,32615.384615384617,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,1,2.0,167.0,8250004.0,49401.22155688623,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,2.0,2,2.0,90.0,5950004.0,66111.15555555555,06030,Paseo de La Reforma Norte,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4132856,-99.1655449,2.0,1,2.0,89.0,5775000.0,64887.6404494382,06700,San Luis Potosí,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Neximo,19.4160023,-99.1651024,2.0,2,2.0,194.0,9350000.0,48195.87628865979,06700,Avenida Insurgentes Sur,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,286.0,9990000.0,34930.06993006993,06760,Quintana Roo,Ciudad de México
+"Colonia Roma, Roma, Monterrey, Nuevo León",Realtyworld Rokali,25.6536914,-100.2981178,2.0,1,4.0,95.0,5133800.0,54040.0,64700,Palestina,Nuevo León
+"Iguala, Roma Sur, Cuauhtémoc, Distrito Federal",Organizacion Serrano,19.4019788,-99.1674782,3.0,3,3.0,140.0,10105450.0,72181.78571428571,06760,Iguala,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4059284,-99.16506,2.0,2,3.0,112.0,7000000.0,62500.0,06760,Calle Manzanillo,Ciudad de México
+"Medellín210, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4114785,-99.1643187,2.0,1,2.0,68.0,1300259.0,19121.45588235294,06700,Eje Vial 3 Poniente,Ciudad de México
+"Nayarit, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4100273,-99.161073,2.0,1,2.0,77.0,4700000.0,61038.96103896104,06760,Nayarit,Ciudad de México
+"Luis Elizondo, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6426097,-100.3024323,2.0,1,2.0,118.0,5009481.0,42453.22881355932,64750,Río Nazas,Nuevo León
+"Medellín210, Roma Norte, Cuauhtémoc, Distrito Federal",Glb Patrimonial,19.411479,-99.164319,2.0,1,2.0,68.0,634217.0,9326.720588235294,06700,Eje Vial 3 Poniente,Ciudad de México
+"Roma Norte, Cuauhtémoc, Distrito Federal",Rent A House Cdmx,19.4356338,-99.1495107,3.0,2,3.0,162.0,10249474.0,63268.358024691355,06030,Paseo de La Reforma Norte,Ciudad de México
+"Aguascalientes  60, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,1,2.0,143.0,9859115.0,68944.86013986015,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,3.0,128.0,6990000.0,54609.375,06760,Quintana Roo,Ciudad de México
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Tucasahoy ,19.4054217,-99.1602247,2.0,2,2.0,179.0,6643287.0,37113.33519553073,06760,Linares,Ciudad de México
+"Roma Privada, Roma Privada, Monterrey, Nuevo León",Horacio Zamarripa Rivas,25.6443125,-100.2989282,2.0,1,2.0,112.0,4745388.0,42369.53571428572,64740,Privada Luis Elizondo,Nuevo León
+"Roma Sur, Cuauhtémoc, Distrito Federal",Eduardomarcelohernandezlopez,19.4019284,-99.16906,2.0,2,3.0,163.0,10200000.0,62576.68711656442,06760,Hermosillo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,63.0,4440632.0,70486.22222222222,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,81.0,5006474.0,61808.32098765432,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,73.0,4440632.0,60830.57534246575,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,71.0,4271474.0,60161.605633802814,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,71.0,5006474.0,70513.71830985915,06760,Quintana Roo,Ciudad de México
+"Snsn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,71.0,4198875.0,59139.08450704225,06760,Quintana Roo,Ciudad de México
+"Roma Sursn, Roma Sur, Cuauhtémoc, Distrito Federal",Buscatuhogarmexico,19.405299,-99.164989,2.0,1,2.0,71.0,4198875.0,59139.08450704225,06760,Quintana Roo,Ciudad de México
+"Jalapa, Roma Sur, Cuauhtémoc, Distrito Federal",Inmuebles Hahn,19.4185174,-99.1613449,2.0,1,3.0,145.0,1894000.0,13062.06896551724,06700,Jalapa,Ciudad de México
+"Hermosillo9, Roma Sur, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.401955,-99.1690664,1.0,1,2.0,70.0,2151648.0,30737.82857142857,06760,código 2,Ciudad de México
+"Hermosillo, Cuauhtémoc, Distrito Federal",Organizacion Serrano,19.401955,-99.1690664,2.0,1,3.0,86.0,3250000.0,37790.6976744186,06760,código 2,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4112706,-99.1633664,2.0,1,2.0,90.0,1105469.0,12282.988888888887,06700,Coahuila,Ciudad de México
+"Medellín340, Roma Norte, Cuauhtémoc, Distrito Federal",Espacio Inmobili,19.404442,-99.162688,2.0,1,2.0,150.0,920000.0,6133.333333333333,06760,Eje Vial 3 Poniente,Ciudad de México
+"Coahuila, Roma Norte, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4124257,-99.1565968,1.0,1,1.0,41.0,3270000.0,79756.09756097561,06700,Coahuila,Ciudad de México
+"Av. Chapultepec246, Roma Norte, Cuauhtémoc, Distrito Federal",Espacio Inmobili,19.423963,-99.160967,2.0,1,3.0,65.0,1277348.0,19651.507692307692,06700,Avenida Chapultepec,Ciudad de México
+"Tehuantepec, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4045013,-99.165451,2.0,2,2.0,93.0,8192000.0,88086.02150537634,06760,Tehuantepec,Ciudad de México
+"Av. Chapultepec246, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4239626,-99.1609669,2.0,1,3.0,65.0,1277348.0,19651.507692307692,06700,Avenida Chapultepec,Ciudad de México
+"Tehuantepec, Roma Sur, Cuauhtémoc, Distrito Federal",Zona Ryg,19.4045013,-99.165451,2.0,2,2.0,93.0,5673000.0,61000.0,06760,Tehuantepec,Ciudad de México
+"Tonalá, Roma Sur, Cuauhtémoc, Distrito Federal",Luxuryhabitatmx,19.4114483,-99.1611243,2.0,1,2.0,72.0,4440632.0,61675.444444444445,06760,Tonalá,Ciudad de México
+"Roma, Monterrey, Nuevo León",Melo Bueno Bienes Raíces,25.6542625,-100.2978762,3.0,2,3.0,196.0,5600000.0,28571.428571428572,64700,Palestina,Nuevo León
+"Roma, Monterrey, Nuevo León",Melo Bueno Bienes Raíces,25.6542625,-100.2978762,3.0,2,3.0,196.0,5500000.0,28061.224489795917,64700,Palestina,Nuevo León
+"Linares, Roma Sur, Cuauhtémoc, Distrito Federal",Morakalli Inmobiliaria,19.4054217,-99.1602247,3.0,2,3.0,140.0,8706563.0,62189.735714285714,06760,Linares,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Nik Bienesraices,19.405299,-99.1649891,2.0,1,2.0,70.0,4734300.0,67632.85714285714,06760,Quintana Roo,Ciudad de México
+"2 De Abril S/n, Roma, Monterrey, Nuevo León",Realtyworld Herrerapalacios,25.65666,-100.2991384,2.0,1,3.0,105.0,5118269.0,48745.41904761905,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"2 De Abril S/n, Roma, Monterrey, Nuevo León",Realtyworld Herrerapalacios,25.65666,-100.2991384,2.0,1,3.0,105.0,4567979.0,43504.561904761904,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"2 De Abril  S/n, Roma, Monterrey, Nuevo León",Realtyworld Herrerapalacios,25.65666,-100.2991384,2.0,1,3.0,33.0,4966989.0,150514.81818181818,64700,Calle 2 de Abril - Jesús Dionisio González,Nuevo León
+"Córdoba48, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.422147,-99.159086,2.0,1,3.0,100.0,1020000.0,10200.0,06700,Córdoba,Ciudad de México
+"Córdoba48, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4221472,-99.1590856,2.0,1,3.0,100.0,2750667.0,27506.67,06700,Córdoba,Ciudad de México
+"Durango290, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.418654,-99.1712607,2.0,1,2.0,98.0,1953000.0,19928.571428571428,06700,290,Ciudad de México
+"Av. Sonora27, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4200374,-99.1734883,2.0,1,3.0,95.0,847987.0,8926.17894736842,06700,27,Ciudad de México
+"Acapulco37, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4193691,-99.1743199,2.0,1,3.0,191.0,900000.0,4712.041884816754,06700,Acapulco,Ciudad de México
+"Coahuila14, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.412573,-99.15541,1.0,1,2.0,70.0,738000.0,10542.857142857143,06700,Coahuila,Ciudad de México
+"Zacatecas67, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4165174,-99.1575288,2.0,1,2.0,135.0,1285333.0,9520.985185185184,06700,Zacatecas,Ciudad de México
+"Aguascalientes98, Roma Sur, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4084623,-99.1657027,1.0,1,2.0,60.0,900000.0,15000.0,06760,Aguascalientes,Ciudad de México
+"Valladolid34, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4210499,-99.1682654,2.0,1,3.0,327.0,958789.0,2932.076452599388,06700,Valladolid,Ciudad de México
+"Roma Sur 0, Roma Sur, Cuauhtémoc, Distrito Federal",Pireal Estate,19.405299,-99.1649891,2.0,2,2.0,185.0,7170000.0,38756.75675675676,06760,Quintana Roo,Ciudad de México
+"Queretaro238, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4136795,-99.1654,3.0,1,4.0,89.0,1394590.0,15669.550561797752,06700,Calle Querétaro,Ciudad de México
+"Coahuila14, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4125733,-99.1554097,1.0,1,2.0,70.0,1410000.0,20142.85714285714,06700,Coahuila,Ciudad de México
+"Pomona45, Roma Norte, Cuauhtémoc, Distrito Federal",Acreedores X Ti,19.4211261,-99.1628915,2.0,1,2.0,75.0,989670.0,13195.6,06700,Pomona,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,2.0,1,2.0,78.0,5950000.0,76282.05128205128,06700,Calle de Durango,Ciudad de México
+"Pomona45, Roma Norte, Cuauhtémoc, Distrito Federal",Espacio Inmobili,19.421126,-99.162892,2.0,1,2.0,75.0,989670.0,13195.6,06700,Pomona,Ciudad de México
+"Aguascalientes, Roma Sur, Cuauhtémoc, Distrito Federal",Remax Real Estate Consultants,19.4088,-99.1637,2.0,1,2.0,70.0,4996100.0,71372.85714285714,06760,Medellín,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Metros Cuadrados Expertos,19.4089339,-99.1617879,2.0,1,2.0,65.0,4231337.0,65097.49230769231,06760,Monterrey,Ciudad de México
+"Torreon, Roma Sur, Cuauhtémoc, Distrito Federal",Aire Y Acero Inmobiliaria,19.4058243,-99.1628061,2.0,2,3.0,115.0,8028800.0,69815.65217391304,06760,Quintana Roo,Ciudad de México
+"Roma Norte 0, Roma Norte, Cuauhtémoc, Distrito Federal",Pireal Estate,19.4195256,-99.162549,2.0,1,2.0,91.0,8250000.0,90659.34065934064,06700,Calle de Durango,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4088805,-99.1672582,2.0,2,2.0,129.0,7250000.0,56201.5503875969,06760,Tlacotalpan,Ciudad de México
+"Condesa, Cuauhtémoc, Distrito Federal",Heyserenta Com,19.4149803,-99.1774462,2.0,1,2.0,114.0,7900000.0,69298.24561403508,06140,Calle Pachuca,Ciudad de México
+"Condesa, Cuauhtémoc, Distrito Federal",Heyserenta Com,19.4149803,-99.1774462,2.0,1,2.0,130.0,8500000.0,65384.61538461538,06140,Calle Pachuca,Ciudad de México
+"Tlacotalpan, Roma Sur, Cuauhtémoc, Distrito Federal",Grupo Inmobiliario Gid13,19.4088805,-99.1672582,2.0,2,2.0,141.0,7500000.0,53191.48936170213,06760,Tlacotalpan,Ciudad de México
+"Cuauhtémoc, Distrito Federal",Consultores Patrimoniales,19.4044416,-99.1626881,2.0,1,3.0,90.0,1494000.0,16600.0,06760,Eje Vial 3 Poniente,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Heyserenta Com,19.405299,-99.1649891,1.0,1,1.0,75.0,6500000.0,86666.66666666667,06760,Quintana Roo,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4118805,-99.1642582,2.0,2,2.0,141.0,7500000.0,53191.48936170213,06700,Calle de Chiapas,Ciudad de México
+"Roma Sur, Cuauhtémoc, Distrito Federal",Mi Casa Propia,19.4108805,-99.1652582,2.0,2,2.0,129.0,7250000.0,56201.5503875969,06700,Coahuila,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Coldwellbankerarsespacio,19.4057767,-99.1610681,2.0,2,2.0,164.0,6516000.0,39731.70731707317,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Coldwellbankerarsespacio,19.4057767,-99.1610681,2.0,2,2.0,140.0,6385000.0,45607.142857142855,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Coldwellbankerarsespacio,19.4057767,-99.1610681,2.0,1,2.0,84.0,4116000.0,49000.0,06760,Monterrey,Ciudad de México
+"Monterrey, Roma Sur, Cuauhtémoc, Distrito Federal",Coldwellbankerarsespacio,19.4057767,-99.1610681,2.0,1,2.0,88.0,4236000.0,48136.36363636364,06760,Monterrey,Ciudad de México
+"Querétaro, Roma Norte, Cuauhtémoc, Distrito Federal",Coldwellbankerpremium,19.4148447,-99.1602414,2.0,2,2.0,114.0,6620120.0,58071.228070175435,06700,#229,Ciudad de México
+"Bajío 315, Roma Sur, Cuauhtémoc, Distrito Federal",Aldo,19.4029284,-99.16806,2.0,2,3.0,114.0,6270000.0,55000.0,06760,Calle Bajío,Ciudad de México

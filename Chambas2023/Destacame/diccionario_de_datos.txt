@@ -1,0 +1,51 @@
+candidate
+----------------+------------------------------+
+id              |Identificación de la deuda         |
+max_discount    |Descuento maximo de la deuda  |
+debt_amount     |Monto de la deuda             |
+debt_date       |Fecha de la deuda             |
+created         |Fecha de creación del registro|
+updated         |Fecha de actualización        |
+identity_code   |Rut del usuario               |
+extra           |json con información adicional|
+receiver_tag_id |id de la sub institución      |
+----------------+------------------------------+
+
+
+user
+-----------------------+---------------------------+
+user_id                |identificador del usuario  |
+identity_code          |rut del usuario            |
+gender                 |sexo del usuario           |
+birthday               |Fecha de nacimiento        |
+cellphone              |Telefono                   |
+phone_verified         |Si tiene teléfono validado |
+freemium               |usuario con suscripción    |                       |
+country_code           |País del usuario           |
+date_joined            |Fecha de registro          |
+last_login             |Fecha de último login      |
+salary                 |Salario                    |
+saving                 |Ahorro del usuario         |
+identification_verified|Rut validado               |
+email_validated        |Email validado             |
+has_address            |Si tiene dirección         |
+address_created        |Fecha de creación dirección|
+has_omited_buro        |Si omite buro (MX)         |
+has_score_buro         |Si tiene score             |
+has_score_buro_complete|Si omite o tiene score     |
+has_register_complete  |Si tiene registro completo |
+identity_code_created  |Fecha en la que dio su rut |
+registration_date      |Fecha de registro completo |
+-----------------------+---------------------------+
+?
+
+reciver_tag
+-----------------------+----------------------------+
+id                     |id del registro             |
+display_name           |Nombre a mostrar            |
+created                |Fecha de creación           |
+expiration_date        |Expiración (Oculta la deuda)|
+receiver_id            |id de la institución        |
+-----------------------+----------------------------+
+
+

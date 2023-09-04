@@ -1,0 +1,61 @@
+﻿Request Number,Creation Date,Task Number,Item,Item Description,Item Instance,Problem Code,Resolution Code,Summary,Type,Status,Severity,Urgency,Contact,Phone,Customer Type
+4921020,1/5/2021 22:18,6340476,0343-VC5,Motorola VC5090 Portable Computer (DC),,,,Missing Enter button,Hardware,Closed,Standard,Standard, ,,ORGANIZATION
+4920346,1/5/2021 17:47,6340130,4900-745,SurePOS 700 Series,,,,TGCS FIELD - REG 61 - M#: 4900-745/S#: 41BA501 - REG is completely/Power unit at,Hardware,Closed,Standard,Standard, ,2271289,ORGANIZATION
+4920416,1/5/2021 18:00,6340347,0343-878,Motorola DS6878-SR20007WR,,,,TSI-REG 61 SCAN GUN WILL NOT SCAN OR CONFIGURE MODEL:0343-878 SERIAL:999999,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919878,1/5/2021 16:40,6339944,4900-786*1174087,SurePOS TCx Terminal,51016356,,,ABC- REG 1/ 4900-786/41AGNLK/Critical Power Supply Warning -  Clean or replace P,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920968,1/5/2021 21:33,6340701,4845-X19*000,Configuration of 4845-X19;Toshiba SELF CHECKOUT BELTED LANE MODEL X19,757235,,,TGCS FIELD-CLUB:148 NAME:ALEXIS POSITION:ALEXIS NEW/EXISTING: NEW ADDRESS: ISSUE,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919976,1/5/2021 16:51,6339992,4900-786*1078851,SurePOS TCx Terminal,50382153,,,ABC- REG 13/ 4900-786/ 41AFBMZ/ Pin Pad Errors -  Investigate and;amp; Replace P,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919942,1/5/2021 16:47,6339984,6140-120*2304970,TCxWave POS System,60494497,,,ABC- REG 61/ 6140-12/41HG823/Serial Port Adapter issues - Investigate cause of m,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920246,1/5/2021 17:28,6340220,4845-X19,Toshiba SELF CHECKOUT BELTED LANE MODEL X19,,,,ABC- SCO51/ 4845-X19/4B27A/ 4900 UNIT-Serial port adapter  Pin Pad -issues  Inve,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920354,1/5/2021 17:48,6340279,4900-745*000,Configuration of 4900-745;SUREPOS 745,17476173,,,TGCS FIELD - REG 92 - M#: 4900-745/S#: 41AZ998 - REG is completely/Power unit at,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920462,1/5/2021 18:04,6340357,0343-7WR,Motorola CR0078-SC10007WR,,,,TSI-,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919874,1/5/2021 16:39,6339836,0369-HLP,Labor Only Support,,,,201 - Faulty battery in MDF1,Hardware,Dispatch,Standard,Standard, ,774-512-6222 option 4,ORGANIZATION
+4919604,1/5/2021 16:15,6339748,4900-745*724996,SurePOS 700 Series,38377040,,,ABC- REG 63/ 4900-745/ 41WB265/UPS Batteries - Replace Batteries,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919584,1/5/2021 16:14,6339743,4888-E1B,TGC Self Checkout System 6 Scanning + Payment  + Belted Modules,,,,"TGCS FIELD - SCO 44 - M#: 4888-E1B/S#: DL51101 - SCO says to void trans, but can",Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4918080,1/5/2021 14:01,6338921,0344-915,Verifone MX915,,,,TGCS FIELD - REG 8 - M#: 0344-915/S#: 262424637 - P.P. says maintenance requred/,Hardware,Closed,Standard,Standard, ,2784050,ORGANIZATION
+4917984,1/5/2021 13:50,6338850,0344-915,Verifone MX915,,,,TGCS FIELD - SCO 51 pin-pad/0344-915/169-046-891 was pulled off SCO by guest. No,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4921024,1/5/2021 22:20,6340474,0343-VC5,Motorola VC5090 Portable Computer (DC),,,,Missing Enter button,Hardware,Dispatch,Standard,Standard, ,,ORGANIZATION
+4921030,1/5/2021 22:22,6340475,0368-FLB,Motorola FLB3578 Truck Cradle (DC),,,,Charging contacts pushed in,Hardware,Closed,Standard,Standard, ,,ORGANIZATION
+4921032,1/5/2021 22:23,6340568,0368-FLB,Motorola FLB3578 Truck Cradle (DC),,,,Charging contacts broken,Hardware,Closed,Standard,Standard, ,,ORGANIZATION
+4920044,1/5/2021 16:58,6345225,4845-X19,Toshiba SELF CHECKOUT BELTED LANE MODEL X19,,,,SCO 54 pinpad not working :4848-X19 SERIAL:4502A,Hardware,Cancelled,Sev 4,Standard, ,,ORGANIZATION
+4919712,1/5/2021 16:26,6339847,6140-120,TCxWave POS System,,,,TGCS FIELD-REG 61 WILL NOT REBOOT CORRECTLY MODEL:6140-120 SERIAL:1824C,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920940,1/5/2021 21:04,6340685,4888-E13*1410963,TGC Self Checkout System 6 Scanning + Payment  + 3-bag modules,53324661,,,TGCS FIELD- SCO 40/4888-E13/DL51628 COIN JAM,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920942,1/5/2021 21:08,6340688,0344-915,Verifone MX915,,,,TGCS FIELD- REG 25/ MX915/ 288492678/ pinpad asking for code,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914116,1/5/2021 8:36,6335346,4845,POS SELF CHECK OUT,,,,TGCS FIELD- SCO 52 BELT IS REJECTING ITEMS,Hardware,Closed,Sev 3,Standard, ,,ORGANIZATION
+4914586,1/5/2021 9:16,6335602,4845-171*000,"Configuration of 4845-171;SELF CHECKOUT, MODULAR OPTION",1175096,,,TGCS FIELD -SCO 51/ 4845-171/103614A/ CASSETTES THAT HOLD MONEY IS HAVING TROUBL,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920898,1/5/2021 20:19,6340645,0343-7WR,Motorola CR0078-SC10007WR,,,,TSI-,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4917564,1/5/2021 13:15,6338572,4888-E13*1222967,TGC Self Checkout System 6 Scanning + Payment  + 3-bag modules,51526902,,,TGCS FIELD- Sco 43 coin singular is broken,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4918108,1/5/2021 14:03,6338893,4610-2CR,SureMark 4610-2CR Printer,,,,TSI - Reg 9 printer/4610-2CR/Dark Grey/Interface RS485(2Port) is causing registe,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4919826,1/5/2021 16:35,6339909,4900-786*1359979,SurePOS TCx Terminal,52703388,,,ABC- REG 2/ 4900-786/41AMLDE/UPS Batteries -   Replace Batteries,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4916774,1/5/2021 12:04,6338164,0343-G30,Motorola MC92N0-G30SXEYA5WR,,,,TSI- 0343-G30 screen broken from being dropped,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4920946,1/5/2021 21:11,6340690,0336-B03,s Magellan 8503 859016-210-80210R,,,,TSI- REG 25/ 8500/MJ0076466/360 scanner will not scan,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915742,1/5/2021 10:42,,4610,SUREMARK POS PRINTER,,,,s171-TSI-REG 2-4610-2CR/USB/GRAY-cover does not stay on,Hardware,Dispatch,Sev 4,Standard, ,,ORGANIZATION
+4912454,1/5/2021 0:33,6334363,0344-915,Verifone MX915,,,,S173-TGCS FIELD- SCO 51/ MX915/ 288313025/ pinpad showing no usb connection,Hardware,Closed,Sev 1,Sev 1, ,6264412,ORGANIZATION
+4912456,1/5/2021 0:35,6334364,4900-786,SurePOS TCx Terminal,,,,"S176-TGCS FIELD- REG 17/ 4900-786/41ARXMX/ register showing check cable ,monit",Hardware,Closed,Standard,Standard, ,2925410,ORGANIZATION
+4914836,1/5/2021 9:35,6336015,4900-745*724996,SurePOS 700 Series,38377039,,,TGCS FIELD - reg 67 Fails to boot - screen has text/4900-745/41WB259,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914868,1/5/2021 9:38,6336105,0344-915,Verifone MX915,,,,TGCS FIELD - SCO 54 pin-pad/0344-915/282-344-217 is not mounted properly to the,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915282,1/5/2021 10:08,6336926,4845,POS SELF CHECK OUT,,,,TGCS FIELD - SCO 52/4845-171/25D7A printer/4610-2CR/Dark Grey/Interface USB(4Por,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914842,1/5/2021 9:35,6336017,4845,POS SELF CHECK OUT,,,,TGCS FIELD-  SCO 52 PRINTER NOT PRINTING-Gray/usb,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4913996,1/5/2021 8:24,6335256,4888-E1C,TGC Self Checkout System 6 Scanning + Payment + No bagger,,,,TGCS FIELD - SCO 58/4888-E1C/59DCA dollar bill cassette is broken.,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914154,1/5/2021 8:40,6335356,0344-915,Verifone MX915,,,,TGCS FIELD- SCO 41 PIN PAD NOT READING CHIPS,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915714,1/5/2021 10:40,,4610,SUREMARK POS PRINTER,,,,s171-TSI-REG 1-4610-2CR/USB/GRAY-receipts printed on half the paper,Hardware,Dispatch,Sev 4,Standard, ,,ORGANIZATION
+4914214,1/5/2021 8:46,6335411,0343-878,Motorola DS6878-SR20007WR,,,,TSI - reg 14 Missing battery cover of hand scanner,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914668,1/5/2021 9:23,6335643,4845-171*000,"Configuration of 4845-171;SELF CHECKOUT, MODULAR OPTION",1175121,,,TGCS FIELD -SCO 53/ 4845-171/103619A/ CASSETTES THAT HOLD MONEY IS HAVING TROUBL,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4918860,1/5/2021 15:02,6339339,0343-G30,Motorola MC92N0-G30SXEYA5WR,,,,S135-TSI-RF gun -MC92N0/1536200502462- half of the touch screen is scrambled a,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915098,1/5/2021 9:53,6336247,0344-915,Verifone MX915,,,,TGCS FIELD- Sco 52 Pin Pad card is not holding cards in,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4916134,1/5/2021 11:14,6337808,6140-120*1359963,TCxWave POS System,52605067,,,s050-FIELD-PODIUM 60-6140120/41HK176-Network line fixed but not connecting,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914236,1/5/2021 8:48,6335419,0343-878,Motorola DS6878-SR20007WR,,,,TSI - reg 15 Missing battery cover of hand scanner,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915988,1/5/2021 11:00,6337684,0343-U2P,Zebra TC510K-2PAZU2P-US HH/Mobile Computer,,,,TSI,Hardware,Dispatch,Sev 4,Standard, ,,ORGANIZATION
+4914084,1/5/2021 8:33,6335341,4900-745*000,Configuration of 4900-745;SUREPOS 745,17626308,,,TGCS FIELD - Member Service Register 61/4900-745/41W9289 will power on then shut,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915622,1/5/2021 10:34,,4610,SUREMARK POS PRINTER,,,,s171-TSI-REG 14-4610-2CR/USB/GRAY-cover does not stay on,Hardware,Dispatch,Sev 4,Standard, ,,ORGANIZATION
+4915624,1/5/2021 10:34,6337445,4888-E1B*1411959,TGC Self Checkout System 6 Scanning + Payment  + Belted Modules,53335247,,,TGCS FIELD- SCO 53 BELT DOES NOT MOVE ,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4913782,1/5/2021 8:03,6335183,0343-G30,Motorola MC92N0-G30SXEYA5WR,,,,TSI - RF Gun crushed - need a replacement,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4918764,1/5/2021 14:54,6339263,0343-G30,Motorola MC92N0-G30SXEYA5WR,,,,RF Gun is completely broken and damaged,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914190,1/5/2021 8:43,6335405,4888-E13*1351963,TGC Self Checkout System 6 Scanning + Payment  + 3-bag modules,52487089,,,TGCS FIELD - SCO 42 Coin box was dropped and is broken,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4915158,1/5/2021 9:58,6336568,4888-E13*1412959,TGC Self Checkout System 6 Scanning + Payment  + 3-bag modules,53219541,,,TGCS FIELD - SCO 40/4888-E13/DL51660 will power on but will not boot.,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4912436,1/5/2021 0:01,6334362,0362-P31,Zebra ZXP31 (Z31-000C0200US00) Membership Card Printer,,,,S113-TSI- ZPX3-5074137/  PRINTER IS NOT FUNCTIONING PRINTING,Hardware,Closed,Standard,Standard, ,5911009,ORGANIZATION
+4917374,1/5/2021 12:56,6338470,0343-6WR,Motorola MC9190-GA0SWEYA6WR,,,,TSI - AP Office has a RF Scanner/0343-6WR/99999 that will not power on.,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914304,1/5/2021 8:53,6348868,4845,POS SELF CHECK OUT,,,, TGCS FIELD- Sco 52 Belt has come off due to dollar bill stuck in track.,Hardware,Closed,Sev 3,Standard, ,,ORGANIZATION
+4916168,1/5/2021 11:17,6337792,4888-E13,TGC Self Checkout System 6 Scanning + Payment  + 3-bag modules,,,,S 120- SCO 40 WILL NOT PRINT RECPTS/HAD ERROR MESSAGE MODEL:4888-E13 SERIAL:DL,Hardware,Closed,Sev 1,Sev 1, ,4531255,ORGANIZATION
+4916086,1/5/2021 11:09,6337725,0344-915,Verifone MX915,,,, TGCS FIELD - Register 8 pin-pad/0344-915/262-424-637 will not come up. Wants us,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
+4914440,1/5/2021 9:03,6335530,0343-7WR,Motorola CR0078-SC10007WR,,,,TSI -SCO 57/ CR0078/ BASE NOT CHARGING HAND SCANNER,Hardware,Closed,Sev 4,Standard, ,,ORGANIZATION
